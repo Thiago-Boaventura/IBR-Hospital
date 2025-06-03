@@ -31,43 +31,59 @@ Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites malicio
 
 ```bash
 pihole -g
+```
 
-💡 Dicas de uso
+---
 
-Adicione apenas listas que sejam relevantes para o seu caso de uso.
-Verifique se a lista não está bloqueando domínios essenciais (ex: serviços de e-mail ou bancos).
-Combine listas com whitelists personalizadas para restaurar domínios legítimos.
-Teste o impacto em redes de produção com cautela.
-Ferramentas como o FTL Logs podem ajudar a identificar bloqueios indevidos.
-🤝 Contribuindo
+## 💡 Dicas de uso
+
+- Adicione apenas listas que sejam relevantes para o seu caso de uso.
+- Verifique se a lista não está bloqueando domínios essenciais (ex: serviços de e-mail ou bancos).
+- Combine listas com **whitelists personalizadas** para restaurar domínios legítimos.
+- Teste o impacto em redes de produção com cautela.
+- Ferramentas como o [FTL Logs](https://docs.pi-hole.net/ftldns/logs/) podem ajudar a identificar bloqueios indevidos.
+
+---
+
+## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Você pode:
 
-Criar uma Issue com domínios que devem ser incluídos ou removidos.
-Enviar um Pull Request com sugestões de novas listas ou atualizações.
-Usar fontes confiáveis e realizar verificações com ferramentas como VirusTotal e URLHaus.
-📅 Atualizações
+- Criar uma **Issue** com domínios que devem ser incluídos ou removidos.
+- Enviar um **Pull Request** com sugestões de novas listas ou atualizações.
+- Usar fontes confiáveis e realizar verificações com ferramentas como [VirusTotal](https://www.virustotal.com/) e [URLHaus](https://urlhaus.abuse.ch/).
+
+---
+
+## 📅 Atualizações
 
 As listas são mantidas com frequência e recebem:
 
-Revisões periódicas para evitar falsos positivos.
-Adição de novas fontes conforme surgem novas ameaças.
-Organização por categorias específicas para maior controle.
-Fique de olho na aba Commits para acompanhar o histórico.
+- Revisões periódicas para evitar falsos positivos.
+- Adição de novas fontes conforme surgem novas ameaças.
+- Organização por categorias específicas para maior controle.
 
-📄 Licença
+Fique de olho na aba **Commits** para acompanhar o histórico.
 
-Este projeto está licenciado sob a MIT License.
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).  
 Você pode usar, modificar e distribuir com liberdade, desde que mantenha os créditos e os termos da licença.
 
-🌐 Links úteis
+---
 
-Pi-hole Documentation
-AdGuard Home
-dnscrypt-proxy blocklists
-StevenBlack Hosts – Uma das maiores fontes de listas unificadas.
-Firebog Recommended Lists – Curadoria de listas confiáveis para Pi-hole.
+## 🌐 Links úteis
 
-##########
+- [Pi-hole Documentation](https://docs.pi-hole.net/)
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki)
+- [dnscrypt-proxy blocklists](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Block-lists)
+- [StevenBlack Hosts](https://github.com/StevenBlack/hosts) – Uma das maiores fontes de listas unificadas.
+- [Firebog Recommended Lists](https://firebog.net/) – Curadoria de listas confiáveis para Pi-hole.
 
-Projeto feito por Thiago Boaventura para o IBR Hospital.
+---
+
+Por: 
+Thiago Boaventura
+IBR Hospital.
