@@ -1,0 +1,622 @@
+# Blacklist Completa de Anúncios para Pi-hole
+# Versão 2025 - Redes de Publicidade, Trackers e Analytics
+# Para usar: adicione como blocklist personalizada no Pi-hole
+
+# ==========================================
+# CATEGORIA: GOOGLE ADS E DOUBLECLICK
+# ==========================================
+
+# Google Ads principais
+googleads.com
+www.googleads.com
+googlesyndication.com
+www.googlesyndication.com
+googleadservices.com
+www.googleadservices.com
+googletagservices.com
+www.googletagservices.com
+googletagmanager.com
+www.googletagmanager.com
+
+# DoubleClick (Google)
+doubleclick.net
+www.doubleclick.net
+doubleclick.com
+www.doubleclick.com
+googledoubleclick.net
+www.googledoubleclick.net
+2mdn.net
+www.2mdn.net
+
+# Google Analytics e Tracking
+google-analytics.com
+www.google-analytics.com
+googleanalytics.com
+www.googleanalytics.com
+analytics.google.com
+ssl.google-analytics.com
+
+# Google AdSense
+googlesyndication.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+partner.googleadservices.com
+
+# ==========================================
+# CATEGORIA: FACEBOOK/META ADS
+# ==========================================
+
+# Facebook Ads
+facebook.com/tr
+www.facebook.com/tr
+connect.facebook.net
+www.connect.facebook.net
+facebook.com/plugins
+www.facebook.com/plugins
+
+# Instagram Ads
+platform.instagram.com
+www.instagram.com/embed.js
+
+# Audience Network
+audiencenetwork.com
+www.audiencenetwork.com
+
+# ==========================================
+# CATEGORIA: AMAZON ADS
+# ==========================================
+
+# Amazon Advertising
+amazon-adsystem.com
+www.amazon-adsystem.com
+amazonaax.com
+www.amazonaax.com
+amazonclix.com
+www.amazonclix.com
+assoc-amazon.com
+www.assoc-amazon.com
+
+# Amazon Associates
+amazon.com/gp/associates
+affiliate-program.amazon.com
+
+# ==========================================
+# CATEGORIA: MICROSOFT/BING ADS
+# ==========================================
+
+# Microsoft Advertising
+ads.microsoft.com
+bat.bing.com
+www.bat.bing.com
+mfadsrvr.com
+www.mfadsrvr.com
+msads.net
+www.msads.net
+
+# ==========================================
+# CATEGORIA: PRINCIPAIS REDES AD NETWORKS
+# ==========================================
+
+# AppNexus
+appnexus.com
+www.appnexus.com
+ib.adnxs.com
+secure.adnxs.com
+
+# OpenX
+openx.net
+www.openx.net
+openx.com
+www.openx.com
+
+# PubMatic
+pubmatic.com
+www.pubmatic.com
+ads.pubmatic.com
+image.pubmatic.com
+
+# Rubicon Project (Magnite)
+rubiconproject.com
+www.rubiconproject.com
+fastlane.rubiconproject.com
+optimized-by.rubiconproject.com
+
+# Index Exchange
+indexexchange.com
+www.indexexchange.com
+casalemedia.com
+www.casalemedia.com
+
+# Criteo
+criteo.com
+www.criteo.com
+criteo.net
+www.criteo.net
+static.criteo.net
+
+# Taboola
+taboola.com
+www.taboola.com
+cdn.taboola.com
+trc.taboola.com
+images.taboola.com
+
+# Outbrain
+outbrain.com
+www.outbrain.com
+widgets.outbrain.com
+paid.outbrain.com
+
+# ==========================================
+# CATEGORIA: TRACKERS E ANALYTICS
+# ==========================================
+
+# Adobe Analytics
+omniture.com
+www.omniture.com
+omtrdc.net
+www.omtrdc.net
+demdex.net
+www.demdex.net
+everesttech.net
+www.everesttech.net
+
+# Quantcast
+quantcast.com
+www.quantcast.com
+quantserve.com
+www.quantserve.com
+
+# ComScore
+comscore.com
+www.comscore.com
+scorecardresearch.com
+www.scorecardresearch.com
+
+# Nielsen
+nielsen.com
+www.nielsen.com
+imrworldwide.com
+www.imrworldwide.com
+
+# Chartbeat
+chartbeat.com
+www.chartbeat.com
+
+# New Relic
+newrelic.com
+js-agent.newrelic.com
+
+# Mixpanel
+mixpanel.com
+www.mixpanel.com
+api.mixpanel.com
+
+# ==========================================
+# CATEGORIA: SOCIAL MEDIA ADS/TRACKING
+# ==========================================
+
+# Twitter Ads
+ads.twitter.com
+analytics.twitter.com
+platform.twitter.com
+syndication.twitter.com
+
+# LinkedIn Ads
+linkedin.com/analytics
+platform.linkedin.com
+snap.licdn.com
+
+# Pinterest Ads
+analytics.pinterest.com
+log.pinterest.com
+ct.pinterest.com
+trk.pinterest.com
+
+# Snapchat Ads
+tr.snapchat.com
+platform.snapchat.com
+
+# TikTok Ads
+analytics.tiktok.com
+ads.tiktok.com
+
+# ==========================================
+# CATEGORIA: MOBILE ADS NETWORKS
+# ==========================================
+
+# AdMob (Google)
+admob.com
+www.admob.com
+googleadmob.com
+www.googleadmob.com
+
+# Unity Ads
+unityads.unity3d.com
+auction.unityads.unity3d.com
+
+# Vungle
+vungle.com
+www.vungle.com
+
+# IronSource
+ironsrc.com
+www.ironsrc.com
+
+# Chartboost
+chartboost.com
+www.chartboost.com
+
+# InMobi
+inmobi.com
+www.inmobi.com
+
+# StartApp
+startapp.com
+www.startapp.com
+
+# ==========================================
+# CATEGORIA: VIDEO ADS NETWORKS
+# ==========================================
+
+# SpotX
+spotx.tv
+www.spotx.tv
+spotxchange.com
+www.spotxchange.com
+
+# Tremor Video
+tremorvideo.com
+www.tremorvideo.com
+
+# BrightRoll (Verizon Media)
+brightroll.com
+www.brightroll.com
+
+# Innovid
+innovid.com
+www.innovid.com
+
+# ==========================================
+# CATEGORIA: AFFILIATE NETWORKS
+# ==========================================
+
+# Commission Junction
+cj.com
+www.cj.com
+commission-junction.com
+www.commission-junction.com
+
+# ShareASale
+shareasale.com
+www.shareasale.com
+
+# ClickBank
+clickbank.com
+www.clickbank.com
+
+# MaxBounty
+maxbounty.com
+www.maxbounty.com
+
+# PeerFly
+peerfly.com
+www.peerfly.com
+
+# ==========================================
+# CATEGORIA: EMAIL MARKETING/TRACKING
+# ==========================================
+
+# Mailchimp
+mailchimp.com
+list-manage.com
+click.mailchimp.com
+
+# Constant Contact
+constantcontact.com
+www.constantcontact.com
+
+# SendGrid
+sendgrid.net
+www.sendgrid.net
+sendgrid.com
+www.sendgrid.com
+
+# Mandrill
+mandrillapp.com
+www.mandrillapp.com
+
+# ==========================================
+# CATEGORIA: RETARGETING NETWORKS
+# ==========================================
+
+# Perfect Audience
+perfectaudience.com
+www.perfectaudience.com
+
+# AdRoll
+adroll.com
+www.adroll.com
+s.adroll.com
+d.adroll.com
+
+# Criteo (já listado acima)
+
+# ReTargeter
+retargeter.com
+www.retargeter.com
+
+# ==========================================
+# CATEGORIA: POPUP E NOTIFICATION ADS
+# ==========================================
+
+# Push Notification Networks
+pushwoosh.com
+www.pushwoosh.com
+pushengage.com
+www.pushengage.com
+onesignal.com
+www.onesignal.com
+
+# Popup Networks
+propellerads.com
+www.propellerads.com
+popads.net
+www.popads.net
+popcash.net
+www.popcash.net
+popunder.net
+www.popunder.net
+
+# ==========================================
+# CATEGORIA: NATIVE ADVERTISING
+# ==========================================
+
+# Content.ad
+content.ad
+www.content.ad
+
+# Revcontent
+revcontent.com
+www.revcontent.com
+img.revcontent.com
+trends.revcontent.com
+
+# Mgid
+mgid.com
+www.mgid.com
+cdn.mgid.com
+servicer.mgid.com
+
+# ==========================================
+# CATEGORIA: BEHAVIORAL TARGETING
+# ==========================================
+
+# BlueKai (Oracle)
+bluekai.com
+www.bluekai.com
+tags.bluekai.com
+
+# Lotame
+lotame.com
+www.lotame.com
+crwdcntrl.net
+www.crwdcntrl.net
+
+# Acxiom
+acxiom.com
+www.acxiom.com
+liveramp.com
+www.liveramp.com
+
+# ==========================================
+# CATEGORIA: PROGRAMMATIC ADVERTISING
+# ==========================================
+
+# The Trade Desk
+thetradedesk.com
+www.thetradedesk.com
+adsystem.com
+www.adsystem.com
+
+# MediaMath
+mediamath.com
+www.mediamath.com
+mathtag.com
+www.mathtag.com
+
+# DataXu (Roku)
+dataxu.com
+www.dataxu.com
+
+# ==========================================
+# CATEGORIA: BRAZILIAN AD NETWORKS
+# ==========================================
+
+# UOL Ads
+uol.com.br/publicidade
+ads.uol.com.br
+publicidade.uol.com.br
+
+# Globo.com Ads
+globo.com/ads
+ads.globo.com
+publicidade.globo.com
+
+# R7 Ads
+r7.com/publicidade
+ads.r7.com
+
+# Terra Ads
+terra.com.br/publicidade
+ads.terra.com.br
+
+# IG Ads
+ig.com.br/publicidade
+ads.ig.com.br
+
+# BOL Ads
+bol.uol.com.br/publicidade
+ads.bol.uol.com.br
+
+# ==========================================
+# CATEGORIA: LATIN AMERICA AD NETWORKS
+# ==========================================
+
+# MercadoLibre Ads
+mercadolibre.com/ads
+publicidad.mercadolibre.com
+ads.mercadoads.com
+
+# ==========================================
+# CATEGORIA: CDN E SERVING DE ADS
+# ==========================================
+
+# Generic Ad Serving
+adsystem.com
+www.adsystem.com
+adnxs.com
+www.adnxs.com
+adsrvr.org
+www.adsrvr.org
+amazon-adsystem.com
+s.amazon-adsystem.com
+
+# Image/Content Serving
+googleusercontent.com/ads
+img.ads.com
+static.ads.com
+cdn.adsystem.com
+
+# ==========================================
+# CATEGORIA: ANALYTICS E HEATMAPS
+# ==========================================
+
+# Hotjar
+hotjar.com
+www.hotjar.com
+static.hotjar.com
+script.hotjar.com
+
+# Crazy Egg
+crazyegg.com
+www.crazyegg.com
+script.crazyegg.com
+
+# FullStory
+fullstory.com
+www.fullstory.com
+
+# LogRocket
+logrocket.com
+www.logrocket.com
+
+# ==========================================
+# CATEGORIA: A/B TESTING PLATFORMS
+# ==========================================
+
+# Optimizely
+optimizely.com
+www.optimizely.com
+cdn.optimizely.com
+
+# Google Optimize
+optimize.google.com
+www.google-analytics.com/gtm
+
+# VWO
+vwo.com
+www.vwo.com
+dev.visualwebsiteoptimizer.com
+
+# ==========================================
+# CATEGORIA: CUSTOMER DATA PLATFORMS
+# ==========================================
+
+# Segment
+segment.com
+www.segment.com
+api.segment.io
+cdn.segment.com
+
+# Salesforce DMP
+krux.com
+www.krux.com
+krxd.net
+www.krxd.net
+
+# ==========================================
+# CATEGORIA: MALVERTISING E SUSPICIOUS
+# ==========================================
+
+# Known Malvertising Networks
+malvertising.com
+www.malvertising.com
+suspiciousads.net
+www.suspiciousads.net
+
+# Fake Ad Networks
+fakeads.com
+www.fakeads.com
+scamads.net
+www.scamads.net
+
+# ==========================================
+# CATEGORIA: REGEX PATTERNS (PARA WILDCARDS)
+# ==========================================
+
+# Padrões comuns de ads
+# ads.
+# ad.
+# advertising.
+# tracker.
+# analytics.
+# metrics.
+# stats.
+# pixel.
+# beacon.
+# tag.
+
+# ==========================================
+# CATEGORIA: OUTROS DOMÍNIOS RELACIONADOS
+# ==========================================
+
+# Miscellaneous Ad Networks
+bidswitch.net
+www.bidswitch.net
+smartadserver.com
+www.smartadserver.com
+smaato.net
+www.smaato.net
+mobfox.com
+www.mobfox.com
+adskeeper.co.uk
+www.adskeeper.co.uk
+richads.com
+www.richads.com
+
+# Cookie Syncing
+sync.search.spotxchange.com
+ums.adtechus.com
+pixel.quantserve.com
+dpm.demdex.net
+
+# Real-Time Bidding
+rtb.openx.net
+bid.g.doubleclick.net
+us-east.mobileads.google.com
+eu.mobileads.google.com
+
+# Legacy Networks
+advertising.com
+www.advertising.com
+adserver.com
+www.adserver.com
+ads.yahoo.com
+global.ard.yahoo.com
+
+# International Networks
+yandex.ru/ads
+ads.yandex.ru
+baidu.com/ads
+ads.baidu.com

@@ -1,4 +1,6 @@
-# Blocklist for Whatsapp
+# Blacklist Whatsapp para Pi-hole
+# Criada em 2025 - Versão Completa
+# Para usar: adicione esta lista como uma blocklist personalizada no Pi-hole
 
 # .com
 whatsapp.com
@@ -7,5 +9,6 @@ whatsapp.com
 graph.whatsapp.com
 
 # .net
-web.whatsapp.net
+whatsapp.net
+mmg.whatsapp.net
 static.whatsapp.net

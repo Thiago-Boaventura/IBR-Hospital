@@ -1,3 +1,7 @@
+# Blacklist de Portais para Pi-hole
+# Criada em 2025 - Versão Completa
+# Para usar: adicione esta lista como uma blocklist personalizada no Pi-hole
+
 # Jornais e Portais de Notícias
 globo.com
 g1.globo.com
@@ -51,3 +55,45 @@ leodias.com
 naosalvo.com.br
 entrete.uol.com.br
 emoff.com.br
+
+### Blogs da cidade
+blogdoanderson.com 
+blogdorodrigoferraz.com.br 
+blogdaresenhageral.com.br 
+blogdopaulonunes.com.br 
+litzconquista.com.br 
+nildofreitas.com 
+vitoriadaconquistanoticias.com.br 
+conquistanews.com.br 
+linkconquista.com.br 
+feiradorolodeconquista.com
+blogdoleosantos.com.br
+blogconquista.com.br
+blogdomassinha.com.br
+blogdoredacao.com.br
+.blogdoredacao.com.br
+blogdocaiquesantos.com.br
+blogdoedyy.com.br
+
+### E-Commerce
+mercadolivre.com.br 
+netshoes.com.br
+shopee.com
+amazon.com.br
+
+### Diversos
+github.com
+.github.com
+portaltibia.com.br 
+bloglivroson-line.com 
+steampowered.com 
+api.steampowered.com 
+mrimobiliaria.com.br 
+animesonlinebr.com.br 
+itambeagora.com.br 
+mgtradio.net 
+brunoespiao.com.br
+cnnbrasil.com.br 
+torproject.org
+softonic.com
+

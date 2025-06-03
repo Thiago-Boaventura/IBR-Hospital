@@ -1,0 +1,731 @@
+# Blacklist Completa de Rastreadores para Pi-hole
+# Versão 2025 - Foco em Privacidade e Proteção de Dados
+# Para usar: adicione como blocklist personalizada no Pi-hole
+
+# ==========================================
+# CATEGORIA: GOOGLE TRACKING
+# ==========================================
+
+# Google Analytics
+google-analytics.com
+www.google-analytics.com
+googleanalytics.com
+www.googleanalytics.com
+analytics.google.com
+ssl.google-analytics.com
+stats.g.doubleclick.net
+
+# Google Tag Manager
+googletagmanager.com
+www.googletagmanager.com
+googletagservices.com
+www.googletagservices.com
+
+# Google Tracking Pixels
+google.com/analytics
+www.google.com/analytics
+google.com/pagead
+www.google.com/pagead
+
+# Google Firebase Analytics
+firebase.google.com
+www.firebase.google.com
+firebase-settings.crashlytics.com
+crashlytics.com
+www.crashlytics.com
+
+# Google Marketing Platform
+marketingplatform.google.com
+optimize.google.com
+surveys.google.com
+
+# ==========================================
+# CATEGORY: FACEBOOK/META TRACKING
+# ==========================================
+
+# Facebook Pixel
+facebook.com/tr
+www.facebook.com/tr
+connect.facebook.net
+www.connect.facebook.net
+
+# Facebook Analytics
+analytics.facebook.com
+www.facebook.com/analytics
+
+# Instagram Tracking
+platform.instagram.com
+www.instagram.com/embed.js
+instagram.com/logging_client_events
+
+# WhatsApp Business API Tracking
+graph.whatsapp.com
+api.whatsapp.com
+
+# Meta Pixel
+pixel.facebook.com
+business.facebook.com/pixel
+
+# ==========================================
+# CATEGORIA: ADOBE TRACKING SUITE
+# ==========================================
+
+# Adobe Analytics (Omniture)
+omniture.com
+www.omniture.com
+omtrdc.net
+www.omtrdc.net
+2o7.net
+www.2o7.net
+
+# Adobe Audience Manager
+demdex.net
+www.demdex.net
+dpm.demdex.net
+
+# Adobe Experience Cloud
+sc.omtrdc.net
+adobe.com/data-collection
+adobedtm.com
+www.adobedtm.com
+
+# Adobe Target
+tt.omtrdc.net
+mboxedge.net
+www.mboxedge.net
+
+# Adobe Campaign
+neolane.net
+www.neolane.net
+
+# ==========================================
+# CATEGORIA: MICROSOFT TRACKING
+# ==========================================
+
+# Microsoft Clarity
+clarity.ms
+www.clarity.ms
+c.clarity.ms
+
+# Bing UET (Universal Event Tracking)
+bat.bing.com
+www.bat.bing.com
+uet.bing.com
+
+# Microsoft Application Insights
+dc.services.visualstudio.com
+dc.applicationinsights.microsoft.com
+
+# Office 365 Telemetry
+office.com/telemetry
+config.office.com
+
+# ==========================================
+# CATEGORIA: AMAZON TRACKING
+# ==========================================
+
+# Amazon Analytics
+amazon.com/analytics
+analytics.amazon.com
+amazon-analytics.com
+www.amazon-analytics.com
+
+# Amazon Pixel
+amazon.com/ap/pixel
+pixel.amazon.com
+
+# Amazon Kinesis
+kinesis.us-east-1.amazonaws.com
+kinesis.eu-west-1.amazonaws.com
+
+# Amazon Personalize
+personalize.amazonaws.com
+
+# ==========================================
+# CATEGORIA: TWITTER/X TRACKING
+# ==========================================
+
+# Twitter Analytics
+analytics.twitter.com
+twitter.com/i/analytics
+
+# Twitter Conversion Tracking
+t.co/i/adsct
+platform.twitter.com/widgets.js
+
+# Twitter Pixel
+static.ads-twitter.com
+ads-api.twitter.com
+
+# ==========================================
+# CATEGORIA: LINKEDIN TRACKING
+# ==========================================
+
+# LinkedIn Insight Tag
+linkedin.com/analytics
+platform.linkedin.com
+snap.licdn.com
+
+# LinkedIn Conversion Tracking
+px.ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
+# ==========================================
+# CATEGORIA: TIKTOK TRACKING
+# ==========================================
+
+# TikTok Pixel
+analytics.tiktok.com
+ads.tiktok.com
+business-api.tiktok.com
+
+# TikTok Events API
+events.tiktok.com
+pixel.tiktokv.com
+
+# ==========================================
+# CATEGORIA: SNAPCHAT TRACKING
+# ==========================================
+
+# Snapchat Pixel
+tr.snapchat.com
+sc-static.net
+ads.snapchat.com
+
+# Snapchat Analytics
+analytics.snapchat.com
+
+# ==========================================
+# CATEGORIA: PINTEREST TRACKING
+# ==========================================
+
+# Pinterest Analytics
+analytics.pinterest.com
+log.pinterest.com
+
+# Pinterest Conversion Tracking
+ct.pinterest.com
+trk.pinterest.com
+
+# ==========================================
+# CATEGORIA: MAJOR ANALYTICS PLATFORMS
+# ==========================================
+
+# Quantcast
+quantcast.com
+www.quantcast.com
+quantserve.com
+www.quantserve.com
+pixel.quantserve.com
+
+# ComScore
+comscore.com
+www.comscore.com
+scorecardresearch.com
+www.scorecardresearch.com
+sb.scorecardresearch.com
+
+# Nielsen
+nielsen.com
+www.nielsen.com
+imrworldwide.com
+www.imrworldwide.com
+secure-us.imrworldwide.com
+
+# Chartbeat
+chartbeat.com
+www.chartbeat.com
+static.chartbeat.com
+ping.chartbeat.net
+
+# Parse.ly
+parsely.com
+www.parsely.com
+srv.parsely.com
+
+# ==========================================
+# CATEGORIA: HEATMAP E BEHAVIOR TRACKING
+# ==========================================
+
+# Hotjar
+hotjar.com
+www.hotjar.com
+static.hotjar.com
+script.hotjar.com
+insights.hotjar.com
+surveys.hotjar.com
+
+# Crazy Egg
+crazyegg.com
+www.crazyegg.com
+script.crazyegg.com
+cetrk.com
+www.cetrk.com
+
+# FullStory
+fullstory.com
+www.fullstory.com
+rs.fullstory.com
+
+# LogRocket
+logrocket.com
+www.logrocket.com
+logrocket.io
+www.logrocket.io
+
+# Mouseflow
+mouseflow.com
+www.mouseflow.com
+cdn.mouseflow.com
+
+# Lucky Orange
+luckyorange.com
+www.luckyorange.com
+cdn.luckyorange.com
+
+# Inspectlet
+inspectlet.com
+www.inspectlet.com
+cdn.inspectlet.com
+
+# ==========================================
+# CATEGORIA: A/B TESTING E OPTIMIZATION
+# ==========================================
+
+# Optimizely
+optimizely.com
+www.optimizely.com
+cdn.optimizely.com
+p13nlog.optimizely.com
+
+# VWO (Visual Website Optimizer)
+vwo.com
+www.vwo.com
+dev.visualwebsiteoptimizer.com
+wingify.com
+www.wingify.com
+
+# Google Optimize
+optimize.google.com
+www.google-analytics.com/gtm
+
+# Unbounce
+unbounce.com
+www.unbounce.com
+
+# ==========================================
+# CATEGORIA: CUSTOMER DATA PLATFORMS
+# ==========================================
+
+# Segment
+segment.com
+www.segment.com
+api.segment.io
+cdn.segment.com
+analytics.segment.io
+
+# mParticle
+mparticle.com
+www.mparticle.com
+jssdkcdns.mparticle.com
+
+# Tealium
+tealium.com
+www.tealium.com
+tags.tiqcdn.com
+utag.salesforce.com
+
+# Amplitude
+amplitude.com
+www.amplitude.com
+api.amplitude.com
+cdn.amplitude.com
+
+# Mixpanel
+mixpanel.com
+www.mixpanel.com
+api.mixpanel.com
+cdn.mxpnl.com
+
+# ==========================================
+# CATEGORIA: DATA BROKERS E ENRICHMENT
+# ==========================================
+
+# Acxiom/LiveRamp
+acxiom.com
+www.acxiom.com
+liveramp.com
+www.liveramp.com
+rlcdn.com
+www.rlcdn.com
+
+# Experian
+experian.com/marketing
+marketing.experian.com
+
+# Epsilon
+epsilon.com
+www.epsilon.com
+epsilonmedia.com
+www.epsilonmedia.com
+
+# Lotame
+lotame.com
+www.lotame.com
+crwdcntrl.net
+www.crwdcntrl.net
+
+# BlueKai (Oracle)
+bluekai.com
+www.bluekai.com
+tags.bluekai.com
+bkrtx.com
+www.bkrtx.com
+
+# ==========================================
+# CATEGORIA: ATTRIBUTION TRACKING
+# ==========================================
+
+# Branch
+branch.io
+www.branch.io
+api.branch.io
+cdn.branch.io
+
+# AppsFlyer
+appsflyer.com
+www.appsflyer.com
+api.appsflyer.com
+
+# Adjust
+adjust.com
+www.adjust.com
+api.adjust.com
+
+# Kochava
+kochava.com
+www.kochava.com
+
+# Singular
+singular.net
+www.singular.net
+
+# ==========================================
+# CATEGORIA: EMAIL TRACKING
+# ==========================================
+
+# Mailchimp Tracking
+list-manage.com
+click.mailchimp.com
+mailchimp.com/analytics
+
+# Constant Contact
+constantcontact.com/tracking
+click.constantcontact.com
+
+# SendGrid
+sendgrid.net/tracking
+click.sendgrid.net
+sendgrid.com/analytics
+
+# Mandrill
+click.mandrillapp.com
+mandrillapp.com/track
+
+# Campaign Monitor
+createsend.com/t
+click.createsend.com
+
+# AWeber
+aweber.com/track
+click.aweber.com
+
+# GetResponse
+getresponse.com/click
+click.getresponse.com
+
+# ==========================================
+# CATEGORIA: SOCIAL MEDIA TRACKING
+# ==========================================
+
+# ShareThis
+sharethis.com
+www.sharethis.com
+platform-api.sharethis.com
+t.sharethis.com
+
+# AddThis
+addthis.com
+www.addthis.com
+s7.addthis.com
+cache.addthiscdn.com
+
+# Social Login Tracking
+loginradius.com
+www.loginradius.com
+janrain.com
+www.janrain.com
+
+# ==========================================
+# CATEGORIA: PUSH NOTIFICATION TRACKING
+# ==========================================
+
+# OneSignal
+onesignal.com
+www.onesignal.com
+cdn.onesignal.com
+
+# Pushwoosh
+pushwoosh.com
+www.pushwoosh.com
+cp.pushwoosh.com
+
+# PushEngage
+pushengage.com
+www.pushengage.com
+
+# Airship (Urban Airship)
+airship.com
+www.airship.com
+urbanairship.com
+www.urbanairship.com
+
+# ==========================================
+# CATEGORIA: MOBILE APP TRACKING
+# ==========================================
+
+# Flurry Analytics
+flurry.com
+www.flurry.com
+data.flurry.com
+
+# Firebase Analytics (já listado em Google)
+firebase.google.com
+app-measurement.com
+www.app-measurement.com
+
+# Fabric/Crashlytics
+fabric.io
+www.fabric.io
+crashlytics.com
+www.crashlytics.com
+
+# New Relic Mobile
+newrelic.com
+mobile-collector.newrelic.com
+js-agent.newrelic.com
+
+# ==========================================
+# CATEGORIA: SURVEY E FEEDBACK TRACKING
+# ==========================================
+
+# Qualtrics
+qualtrics.com
+www.qualtrics.com
+siteintercept.qualtrics.com
+
+# SurveyMonkey
+surveymonkey.com/collect
+secure.surveymonkey.com
+
+# Typeform
+typeform.com/embed
+embed.typeform.com
+
+# UserVoice
+uservoice.com
+widget.uservoice.com
+
+# Zendesk
+zendesk.com/embeds
+static.zendesk.com
+
+# ==========================================
+# CATEGORIA: ECOMMERCE TRACKING
+# ==========================================
+
+# Shopify Analytics
+shopify.com/analytics
+monorail-edge.shopifysvc.com
+
+# Magento Tracking
+magento.com/analytics
+
+# WooCommerce Tracking
+woocommerce.com/usage-tracking
+
+# BigCommerce Tracking
+bigcommerce.com/analytics
+
+# ==========================================
+# CATEGORIA: CDN E THIRD-PARTY TRACKERS
+# ==========================================
+
+# Generic Tracking CDNs
+tracker.com
+www.tracker.com
+analytics.com
+www.analytics.com
+metrics.com
+www.metrics.com
+stats.com
+www.stats.com
+
+# Pixel Tracking Services
+pixel.com
+www.pixel.com
+beacon.com
+www.beacon.com
+tracking.com
+www.tracking.com
+
+# ==========================================
+# CATEGORIA: FINGERPRINTING SERVICES
+# ==========================================
+
+# Device Fingerprinting
+fingerprintjs.com
+www.fingerprintjs.com
+clientjs.org
+www.clientjs.org
+
+# ThreatMetrix
+h.online-metrix.net
+threatmetrix.com
+www.threatmetrix.com
+
+# iovation
+iovation.com
+www.iovation.com
+
+# ==========================================
+# CATEGORIA: LOCATION TRACKING
+# ==========================================
+
+# Foursquare/Swarm API
+api.foursquare.com
+foursquare.com/developers
+
+# Google Location Services
+maps.googleapis.com/maps/api/js/LocationService
+location.services.mozilla.com
+
+# ==========================================
+# CATEGORIA: PERFORMANCE MONITORING
+# ==========================================
+
+# Pingdom
+pingdom.net
+www.pingdom.net
+rum-static.pingdom.net
+
+# GTmetrix
+gtmetrix.com
+api.gtmetrix.com
+
+# SpeedCurve
+speedcurve.com
+www.speedcurve.com
+
+# ==========================================
+# CATEGORIA: BRAZILIAN TRACKERS
+# ==========================================
+
+# Comscore Brasil
+comscore.com.br
+www.comscore.com.br
+
+# Ibope Nielsen
+ibope.com.br/analytics
+nielsen.com.br
+
+# Google Analytics Brasil
+google.com.br/analytics
+analytics.google.com.br
+
+# ==========================================
+# CATEGORIA: INTERNATIONAL TRACKERS
+# ==========================================
+
+# Yandex Metrica (Russia)
+mc.yandex.ru
+metrica.yandex.ru
+yandex.ru/metrika
+
+# Baidu Analytics (China)
+hm.baidu.com
+tongji.baidu.com
+
+# CNZZ (China)
+cnzz.com
+www.cnzz.com
+
+# ==========================================
+# CATEGORIA: REGEX PATTERNS COMUNS
+# ==========================================
+
+# Padrões que podem ser usados como regex no Pi-hole:
+# ^analytics\.
+# ^tracking\.
+# ^metrics\.
+# ^stats\.
+# ^pixel\.
+# ^beacon\.
+# ^collect\.
+# ^log\.
+# ^telemetry\.
+
+# ==========================================
+# CATEGORIA: CROSS-DEVICE TRACKING
+# ==========================================
+
+# Tapad
+tapad.com
+www.tapad.com
+
+# Drawbridge
+drawbrid.ge
+www.drawbrid.ge
+
+# Adobe Device Co-op
+devicecoop.adobe.com
+
+# ==========================================
+# CATEGORIA: REAL-TIME MESSAGING TRACKING
+# ==========================================
+
+# Pusher
+pusher.com
+ws.pusherapp.com
+
+# Socket.IO tracking
+socket.io/analytics
+
+# Firebase Realtime Database
+firebaseio.com
+firebase-database.com
+
+# ==========================================
+# CATEGORIA: MISCELLANEOUS TRACKERS
+# ==========================================
+
+# Generic Analytics
+webtrends.com
+www.webtrends.com
+statcounter.com
+www.statcounter.com
+histats.com
+www.histats.com
+
+# Legacy Trackers
+nedstat.com
+www.nedstat.com
+sitemeter.com
+www.sitemeter.com
+
+# Custom Implementation Patterns
+collect.tealiumiq.com
+b.6sc.co
+d.turn.com
+x.bidswitch.net
+sync.search.spotxchange.com
