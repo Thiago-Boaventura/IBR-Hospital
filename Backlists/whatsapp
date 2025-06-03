@@ -1,8 +1,11 @@
 # Blocklist for Whatsapp
 
-
+# .com
 whatsapp.com
 web.whatsapp.com
 whatsapp.com
+graph.whatsapp.com
+
+# .net
 web.whatsapp.net
 static.whatsapp.net
