@@ -32,9 +32,9 @@ Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites malicio
 5. Clique em **Add**.
 6. Atualize as listas com o comando:
 
-)))bash
+```bash
 pihole -g
-)))
+```
 
 ---
 
@@ -88,5 +88,5 @@ Você pode usar, modificar e distribuir com liberdade, desde que mantenha os cr�
 ---
 
 Por: 
-Thiago Boaventura
+Thiago Boaventura.
 IBR Hospital.
