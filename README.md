@@ -87,7 +87,7 @@ Você pode usar, modificar e distribuir com liberdade, desde que mantenha os cr�
 
 ---
 
-Thiago Boaventura  
-IBR Hospital  
-Vitória da Conquista - Bahia  
+👤 Thiago Boaventura  
+🏥 IBR Hospital  
+📍 Vitória da Conquista - Bahia  
 
