@@ -87,6 +87,7 @@ Você pode usar, modificar e distribuir com liberdade, desde que mantenha os cr�
 
 ---
 
-Por: 
-Thiago Boaventura.
-IBR Hospital.
+Thiago Boaventura
+IBR Hospital
+Vitória da Conquista - Bahia
+
