@@ -10,13 +10,13 @@ Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites malicio
 
 | Categoria             | Descrição                                                 | Link Direto                                                                                 |
 |-----------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| **Anúncios**          | Bloqueia domínios usados por redes de publicidade         | [Link Anuncios](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/anuncios)          |
-| **Rastreadores**      | Impede o rastreamento de usuários                         | [Link Rastreadores](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/rastreadores)      |
-| **Malware/Phishing**  | Bloqueia domínios maliciosos e de phishing                | [Link Malware/Phishing](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/malware)           |
-| **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                     | [Link Adulto](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/adulto)            |
-| **Redes sociais**     | Bloqueia redes sociais específicas                        | [Link Redes Sociais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/redes_sociais)     |
-| **Whatsapp**          | Bloqueia/Libera Whatsapp                                  | [Link Whatsapp](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/whatsapp)          |
-| **Jornais**           | Bloqueia/Libera Jornais/Portais/Blogs                     | [Link Portais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/portais)          |
+| **Anúncios**          | Bloqueia domínios usados por redes de publicidade         | [Anuncios](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/anuncios)          |
+| **Rastreadores**      | Impede o rastreamento de usuários                         | [Rastreadores](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/rastreadores)      |
+| **Malware/Phishing**  | Bloqueia domínios maliciosos e de phishing                | [Malware/Phishing](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/malware)           |
+| **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                     | [Adulto](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/adulto)            |
+| **Redes sociais**     | Bloqueia redes sociais específicas                        | [Redes Sociais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/redes_sociais)     |
+| **Whatsapp**          | Bloqueia/Libera Whatsapp                                  | [Whatsapp](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/whatsapp)          |
+| **Jornais**           | Bloqueia/Libera Jornais/Portais/Blogs                     | [Portais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/portais)          |
 
 
 > ⚠️ **Use apenas as listas que forem adequadas ao seu ambiente.** Algumas podem impactar o funcionamento de serviços legítimos. Estas listas podem ser utilizadas tantao para bloquear quando liberar.
