@@ -16,7 +16,7 @@ Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites malicio
 | **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                     | [Link Adulto](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/adulto)            |
 | **Redes sociais**     | Bloqueia redes sociais específicas                        | [Link Redes Sociais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/redes_sociais)     |
 | **Whatsapp**          | Bloqueia/Libera Whatsapp                                  | [Link Whatsapp](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/whatsapp)          |
-
+| **Jornais**           | Bloqueia/Libera Jornais/Portais/Blogs                     | [Link Whatsapp](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/portais)          |
 
 
 > ⚠️ **Use apenas as listas que forem adequadas ao seu ambiente.** Algumas podem impactar o funcionamento de serviços legítimos. Estas listas podem ser utilizadas tantao para bloquear quando liberar.
