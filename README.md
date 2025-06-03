@@ -6,11 +6,11 @@ Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites malicio
 
 ---
 
-## 📦 Listas Disponíveis (Deny and Allow)
+## 📦 Listas Disponíveis
 
 | Categoria             | Descrição                                                 | Link Direto                                                                                 |
 |-----------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| **Anúncios**          | Bloqueia domínios usados por redes de publicidade         | `https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/anuncios`          |
+| **Anúncios**          | Bloqueia domínios usados por redes de publicidade         | (https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/anuncios)          |
 | **Rastreadores**      | Impede o rastreamento de usuários                         | `https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/rastreadores`      |
 | **Malware/Phishing**  | Bloqueia domínios maliciosos e de phishing                | `https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/malware`           |
 | **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                     | `https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/adulto`            |
