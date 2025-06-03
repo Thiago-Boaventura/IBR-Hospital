@@ -1,2 +1,73 @@
-# IBR-Hospital
-IBR HOSPITAL
+# 🛡️ Blacklists para Pi-hole e DNS/Web Filters
+
+Bem-vindo ao repositório de **listas negras (blacklists)** mantidas pela comunidade para uso com o [Pi-hole](https://pi-hole.net/), [AdGuard Home](https://adguard.com/en/adguard-home/overview.html), e outros sistemas de filtragem de DNS/web.
+
+Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites maliciosos, conteúdo adulto e outras categorias indesejadas por meio de listas atualizadas e organizadas.
+
+---
+
+## 📦 Listas Disponíveis
+
+| Categoria            | Descrição                                              | Link Direto                                                                 |
+|----------------------|--------------------------------------------------------|------------------------------------------------------------------------------|
+| **Anúncios**         | Bloqueia domínios usados por redes de publicidade      | `https://seurepositorio.github.io/blacklists/anuncios.txt`                  |
+| **Rastreadores**     | Impede o rastreamento de usuários                      | `https://seurepositorio.github.io/blacklists/rastreadores.txt`              |
+| **Malware/Phishing** | Bloqueia domínios maliciosos e de phishing             | `https://seurepositorio.github.io/blacklists/malware.txt`                   |
+| **Conteúdo adulto**  | Restringe acesso a conteúdo impróprio                  | `https://seurepositorio.github.io/blacklists/adulto.txt`                    |
+| **Redes sociais**    | Bloqueia redes sociais específicas                     | `https://seurepositorio.github.io/blacklists/redes_sociais.txt`             |
+
+> ⚠️ **Use apenas as listas que forem adequadas ao seu ambiente.** Algumas podem impactar o funcionamento de serviços legítimos.
+
+---
+
+## 🚀 Como usar com o Pi-hole
+
+1. Acesse a interface de administração do seu Pi-hole.
+2. Vá até **Group Management > Adlists**.
+3. Clique em **Add a new adlist**.
+4. Cole o link da lista desejada.
+5. Clique em **Add**.
+6. Atualize as listas com o comando:
+
+```bash
+pihole -g
+
+💡 Dicas de uso
+
+Adicione apenas listas que sejam relevantes para o seu caso de uso.
+Verifique se a lista não está bloqueando domínios essenciais (ex: serviços de e-mail ou bancos).
+Combine listas com whitelists personalizadas para restaurar domínios legítimos.
+Teste o impacto em redes de produção com cautela.
+Ferramentas como o FTL Logs podem ajudar a identificar bloqueios indevidos.
+🤝 Contribuindo
+
+Contribuições são bem-vindas! Você pode:
+
+Criar uma Issue com domínios que devem ser incluídos ou removidos.
+Enviar um Pull Request com sugestões de novas listas ou atualizações.
+Usar fontes confiáveis e realizar verificações com ferramentas como VirusTotal e URLHaus.
+📅 Atualizações
+
+As listas são mantidas com frequência e recebem:
+
+Revisões periódicas para evitar falsos positivos.
+Adição de novas fontes conforme surgem novas ameaças.
+Organização por categorias específicas para maior controle.
+Fique de olho na aba Commits para acompanhar o histórico.
+
+📄 Licença
+
+Este projeto está licenciado sob a MIT License.
+Você pode usar, modificar e distribuir com liberdade, desde que mantenha os créditos e os termos da licença.
+
+🌐 Links úteis
+
+Pi-hole Documentation
+AdGuard Home
+dnscrypt-proxy blocklists
+StevenBlack Hosts – Uma das maiores fontes de listas unificadas.
+Firebog Recommended Lists – Curadoria de listas confiáveis para Pi-hole.
+
+##########
+
+Projeto feito por Thiago Boaventura para o IBR Hospital.
