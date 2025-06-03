@@ -8,14 +8,14 @@ Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites malicio
 
 ## 📦 Listas Disponíveis (Deny and Allow)
 
-| Categoria             | Descrição                                               | Link Direto                                                                   |
-|-----------------------|--------------------------------------------------------|------------------------------------------------------------------------------|
-| **Anúncios**          | Bloqueia domínios usados por redes de publicidade      | `https://seurepositorio.github.io/blacklists/anuncios.txt`                   |
-| **Rastreadores**      | Impede o rastreamento de usuários                      | `https://seurepositorio.github.io/blacklists/rastreadores.txt`               |
-| **Malware/Phishing**  | Bloqueia domínios maliciosos e de phishing             | `https://seurepositorio.github.io/blacklists/malware.txt`                    |
-| **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                  | `https://seurepositorio.github.io/blacklists/adulto.txt`                     |
-| **Redes sociais**     | Bloqueia redes sociais específicas                     | `https://seurepositorio.github.io/blacklists/redes_sociais.txt`              |
-| **Whatsapp**          | Bloqueia/Libera Whatsapp                               | `https://seurepositorio.github.io/blacklists/whatsapp.txt`                   |
+| Categoria             | Descrição                                                 | Link Direto                                                                                 |
+|-----------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| **Anúncios**          | Bloqueia domínios usados por redes de publicidade         | `https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/anuncios`          |
+| **Rastreadores**      | Impede o rastreamento de usuários                         | `https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/rastreadores`      |
+| **Malware/Phishing**  | Bloqueia domínios maliciosos e de phishing                | `https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/malware`           |
+| **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                     | `https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/adulto`            |
+| **Redes sociais**     | Bloqueia redes sociais específicas                        | `https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/redes_sociais`     |
+| **Whatsapp**          | Bloqueia/Libera Whatsapp                                  | `https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/whatsapp`          |
 
 
 
