@@ -18,7 +18,7 @@ Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites malicio
 | **Whatsapp**          | Bloqueia/Libera Whatsapp                                  | [Whatsapp](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/whatsapp)          |
 | **Jornais**           | Bloqueia/Libera Jornais/Portais/Blogs                     | [Portais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/portais)          |
 
-## https://static-00.iconduck.com/assets.00/adguard-icon-94x96-y7gadd9x.png Listas Disponíveis AdGuard Home
+## <img https://static-00.iconduck.com/assets.00/adguard-icon-94x96-y7gadd9x.png> Listas Disponíveis AdGuard Home
 
 | Categoria             | Descrição                                                 | Link Direto                                                                                 |
 |-----------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------|
