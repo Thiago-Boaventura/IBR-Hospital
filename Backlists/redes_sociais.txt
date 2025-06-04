@@ -1,0 +1,363 @@
+# Blacklist de Redes Sociais para Pi-hole
+# Criada em 2025 - Versão Completa
+# Para usar: adicione esta lista como uma blocklist personalizada no Pi-hole
+
+# === YOUTUBE ===
+youtube.com
+www.youtube.com
+m.youtube.com
+youtubei.googleapis.com
+youtube.googleapis.com
+youtubei-googleapis-com.googlevideo.com
+s.youtube.com
+video-stats.l.google.com
+www.googleapis.com
+googlevideo.com
+ytimg.com
+yt3.ggpht.com
+yt4.ggpht.com
+youtube-nocookie.com
+youtu.be
+
+# === TIKTOK ===
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+api.tiktok.com
+p16-sign-sg.tiktokcdn.com
+p16-tiktokcdn-com.akamaized.net
+sf16-sg.tiktokcdn.com
+sf16-website-login.neutral.ttwstatic.com
+lf16-pkgcdn.pitaya.com
+muscdn.com
+musical.ly
+www.musical.ly
+api2-19-h2.musical.ly
+api2-21-h2.musical.ly
+byteoversea.com
+ibytedtos.com
+ibyteimg.com
+ipstatp.com
+musemuse.cn
+sgpstatp.com
+snssdk.com
+tiktokcdn.com
+tiktokv.com
+ttlivecdn.com
+ttoversea.net
+weixinbridge.com
+zijieapi.com
+
+# === FACEBOOK ===
+facebook.com
+www.facebook.com
+m.facebook.com
+touch.facebook.com
+web.facebook.com
+business.facebook.com
+fb.com
+www.fb.com
+fbcdn.net
+fbsbx.com
+messenger.com
+www.messenger.com
+m.messenger.com
+facebook.net
+fburl.com
+connect.facebook.net
+graph.facebook.com
+edge-chat.facebook.com
+video.xx.fbcdn.net
+scontent.xx.fbcdn.net
+static.xx.fbcdn.net
+edge-mqtt.facebook.com
+mqtt.c10r.facebook.com
+gateway.facebook.com
+rupload.facebook.com
+upload.facebook.com
+
+# === INSTAGRAM ===
+instagram.com
+www.instagram.com
+m.instagram.com
+help.instagram.com
+about.instagram.com
+blog.instagram.com
+cdninstagram.com
+instagramstatic-a.akamaihd.net
+instagramstatic-a.akamaihd.net.edgesuite.net
+igcdn.com
+instagram.c10r.facebook.com
+i.instagram.com
+graph.instagram.com
+white.ish.instagram.com
+edge-chat.instagram.com
+gateway.instagram.com
+
+# === TINDER ===
+tinder.com
+www.tinder.com
+api.gotinder.com
+gotinder.com
+www.gotinder.com
+tindersparks.com
+tindercdn.com
+api.tinder.com
+
+# === TWITTER/X ===
+twitter.com
+www.twitter.com
+m.twitter.com
+mobile.twitter.com
+api.twitter.com
+pbs.twimg.com
+abs.twimg.com
+video.twimg.com
+ton.twimg.com
+t.co
+twimg.com
+x.com
+www.x.com
+api.x.com
+
+# === SNAPCHAT ===
+snapchat.com
+www.snapchat.com
+app.snapchat.com
+feelinsonice.appspot.com
+feelinsonice-hrd.appspot.com
+sc-prod.net
+snapkit.com
+snap-dev.net
+snapads.com
+impala-media-production.s3.amazonaws.com
+
+# === DISCORD ===
+discord.com
+www.discord.com
+discordapp.com
+discord.gg
+cdn.discordapp.com
+media.discordapp.net
+images-ext-1.discordapp.net
+images-ext-2.discordapp.net
+gateway.discord.gg
+status.discord.com
+support.discord.com
+
+# === WHATSAPP ===
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+media.whatsapp.com
+mmg.whatsapp.net
+mmg-fna.whatsapp.net
+chat.whatsapp.com
+faq.whatsapp.com
+static.whatsapp.net
+wa.me
+
+# === LINKEDIN ===
+linkedin.com
+www.linkedin.com
+m.linkedin.com
+touch.linkedin.com
+media.licdn.com
+static.licdn.com
+platform.linkedin.com
+
+# === PINTEREST ===
+pinterest.com
+www.pinterest.com
+br.pinterest.com
+pin.it
+i.pinimg.com
+s-media-cache-ak0.pinimg.com
+media-cache-ak0.pinimg.com
+
+# === BUMBLE ===
+bumble.com
+www.bumble.com
+api.bumble.com
+
+# === REDDIT ===
+reddit.com
+www.reddit.com
+m.reddit.com
+old.reddit.com
+i.redd.it
+v.redd.it
+preview.redd.it
+external-preview.redd.it
+thumbs.redditmedia.com
+styles.redditmedia.com
+redditstatic.com
+reddituploads.com
+
+# === TWITCH ===
+twitch.tv
+www.twitch.tv
+m.twitch.tv
+player.twitch.tv
+static-cdn.jtvnw.net
+clips-media-assets2.twitch.tv
+vod-secure.twitch.tv
+vod-metro.twitch.tv
+twitchcdn.net
+jtvnw.net
+ext-twitch.tv
+api.twitch.tv
+
+# === OUTROS APPS POPULARES ===
+# OnlyFans
+onlyfans.com
+www.onlyfans.com
+
+# BeReal
+bereal.com
+www.bereal.com
+
+# Clubhouse
+clubhouse.com
+www.clubhouse.com
+
+# Telegram Web
+web.telegram.org
+webz.telegram.org
+webk.telegram.org
+
+# Spotify Web Player
+open.spotify.com
+
+# Netflix (caso queira bloquear)
+# netflix.com
+# www.netflix.com
+
+# === DOMÍNIOS DE PUBLICIDADE RELACIONADOS ===
+# Facebook Ads
+facebook.com/tr
+connect.facebook.net/en_US/fbevents.js
+analytics.facebook.com
+pixel.facebook.com
+
+# Google Ads relacionados ao YouTube
+googleadservices.com
+googlesyndication.com
+doubleclick.net
+adsystem.google.com
+
+# TikTok Ads
+ads.tiktok.com
+business-api.tiktok.com
+analytics.tiktok.com
+
+# ===== CDNs E DOMÍNIOS DE APOIO =====
+# Facebook/Meta CDNs
+fbcdn.com
+xx.fbcdn.net
+scontent.xx.fbcdn.net
+static.xx.fbcdn.net
+external.xx.fbcdn.net
+scontent-*.xx.fbcdn.net
+
+# Twitter/X CDNs
+abs.twimg.com
+pbs.twimg.com
+video.twimg.com
+
+# Instagram CDNs
+instagramstatic-a.akamaihd.net
+instagramstatic-a.akamaihd.net
+scontent.cdninstagram.com
+
+# YouTube CDNs
+googlevideo.com
+*.googlevideo.com
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+
+# TikTok CDNs
+muscdn.com
+tiktokcdn-us.com
+tiktokcdn.com
+sf16-website-login.neutral.ttwstatic.com
+
+# ===== ANALYTICS E TRACKING DE REDES SOCIAIS =====
+facebook.com/tr
+connect.facebook.net
+www.facebook.com/plugins
+www.facebook.com/like.php
+platform.twitter.com
+syndication.twitter.com
+cdn.syndication.twimg.com
+platform.instagram.com
+www.instagram.com/embed.js
+connect.facebook.com
+graph.facebook.com
+graph.instagram.com
+api.instagram.com
+linkedin.com/analytics
+platform.linkedin.com
+snap.licdn.com
+platform.snapchat.com
+tr.snapchat.com
+analytics.pinterest.com
+log.pinterest.com
+ct.pinterest.com
+trk.pinterest.com
+
+# Streaming de Vídeo
+netflix.com
+nflximg.net
+nflxvideo.net
+nflxso.net
+nflxext.com
+disneyplus.com
+disneyplus.bn5x.net
+hotstar.com
+hbomax.com
+hbomaxcdn.com
+primevideo.com
+primevideo.com.br
+video.amazon.com
+video.amazon.com.br
+globoplay.globo.com
+globoplay.com
+globosatplay.globo.com
+paramountplus.com
+paramountplus.com.br
+pluto.tv
+apple.com
+apple-tv-plus.apple.com
+tv.apple.com
+youtube.com
+youtube-nocookie.com
+ytimg.com
+googlevideo.com
+crunchyroll.com
+funimation.com
+nowonline.com.br
+looke.com.br
+netmovies.com.br
+twitch.tv
+roku.com
+
+# Streaming de Música
+spotify.com
+spotifycdn.com
+deezer.com
+soundcloud.com
+music.youtube.com
+music.apple.com
+tidal.com
+amazonmusic.com
+pandora.com
+napster.com
+
+# Streaming de Jogos
+geforcenow.com
+xbox.com
+cloudgaming.xbox.com
+playstation.com
+stadia.google.com
