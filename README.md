@@ -54,7 +54,6 @@ pihole -g
 4. Clique em **Adicionar uma lista personalizada**.
 5. Cole o link da lista desejada.
 6. Clique em **Add**.
-7. Atualize as listas com o comando:
 
 ```bash
 
