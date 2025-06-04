@@ -6,7 +6,19 @@ Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites malicio
 
 ---
 
-## 📦 Listas Disponíveis
+## 📦 Listas Disponíveis Pi-Hole
+
+| Categoria             | Descrição                                                 | Link Direto                                                                                 |
+|-----------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| **Anúncios**          | Bloqueia domínios usados por redes de publicidade         | [Anuncios](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/anuncios)          |
+| **Rastreadores**      | Impede o rastreamento de usuários                         | [Rastreadores](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/rastreadores)      |
+| **Malware/Phishing**  | Bloqueia domínios maliciosos e de phishing                | [Malware/Phishing](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/malware)           |
+| **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                     | [Adulto](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/adulto)            |
+| **Redes sociais**     | Bloqueia redes sociais específicas                        | [Redes Sociais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/redes_sociais)     |
+| **Whatsapp**          | Bloqueia/Libera Whatsapp                                  | [Whatsapp](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/whatsapp)          |
+| **Jornais**           | Bloqueia/Libera Jornais/Portais/Blogs                     | [Portais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/portais)          |
+
+## ![AdGuard Home](https://avatars.githubusercontent.com/u/36534749?s=200&v=4) Listas Disponíveis AdGuard Home
 
 | Categoria             | Descrição                                                 | Link Direto                                                                                 |
 |-----------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------|
