@@ -6,29 +6,27 @@ Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites malicio
 
 ---
 
-## 📦 Listas Disponíveis Pi-Hole
+## 🛡️ Pi-Hole - Listas Disponíveis
 
 | Categoria             | Descrição                                                 | Link Direto                                                                                 |
 |-----------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| **Anúncios**          | Bloqueia domínios usados por redes de publicidade         | [Anuncios](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/anuncios)          |
-| **Rastreadores**      | Impede o rastreamento de usuários                         | [Rastreadores](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/rastreadores)      |
-| **Malware/Phishing**  | Bloqueia domínios maliciosos e de phishing                | [Malware/Phishing](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/malware)           |
-| **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                     | [Adulto](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/adulto)            |
-| **Redes sociais**     | Bloqueia redes sociais específicas                        | [Redes Sociais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/redes_sociais)     |
-| **Whatsapp**          | Bloqueia/Libera Whatsapp                                  | [Whatsapp](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/whatsapp)          |
-| **Jornais**           | Bloqueia/Libera Jornais/Portais/Blogs                     | [Portais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/portais)          |
+| **Anúncios**          | Bloqueia domínios usados por redes de publicidade         | [Anuncios](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/Pi-Hole/anuncios)          |
+| **Rastreadores**      | Impede o rastreamento de usuários                         | [Rastreadores](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/Pi-Hole/rastreadores)      |
+| **Malware/Phishing**  | Bloqueia domínios maliciosos e de phishing                | [Malware/Phishing](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/Pi-Hole/malware)           |
+| **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                     | [Adulto](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/Pi-Hole/adulto)            |
+| **Redes sociais**     | Bloqueia redes sociais específicas                        | [Redes Sociais](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/Pi-Hole/redes_sociais)     |
+| **Whatsapp**          | Bloqueia/Libera Whatsapp                                  | [Whatsapp](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/Pi-Hole/whatsapp)          |
+| **Jornais**           | Bloqueia/Libera Jornais/Portais/Blogs                     | [Portais](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/Pi-Hole/portais)          |
 
-## <img https://static-00.iconduck.com/assets.00/adguard-icon-94x96-y7gadd9x.png> Listas Disponíveis AdGuard Home
+## 🛡️ AdGuard Home - Listas Disponíveis 
 
 | Categoria             | Descrição                                                 | Link Direto                                                                                 |
 |-----------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| **Anúncios**          | Bloqueia domínios usados por redes de publicidade         | [Anuncios](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/anuncios)          |
-| **Rastreadores**      | Impede o rastreamento de usuários                         | [Rastreadores](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/rastreadores)      |
-| **Malware/Phishing**  | Bloqueia domínios maliciosos e de phishing                | [Malware/Phishing](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/malware)           |
-| **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                     | [Adulto](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/adulto)            |
-| **Redes sociais**     | Bloqueia redes sociais específicas                        | [Redes Sociais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/redes_sociais)     |
-| **Whatsapp**          | Bloqueia/Libera Whatsapp                                  | [Whatsapp](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/whatsapp)          |
-| **Jornais**           | Bloqueia/Libera Jornais/Portais/Blogs                     | [Portais](https://github.com/Thiago-Boaventura/IBR-Hospital/blob/main/Backlists/portais)          |
+| **Anúncios**          | Bloqueia domínios usados por redes de publicidade         | [Anuncios](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/ADGuard/anuncios)          |
+| **Rastreadores**      | Impede o rastreamento de usuários                         | [Rastreadores](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/ADGuard/rastreadores)      |
+| **Conteúdo adulto**   | Restringe acesso a conteúdo impróprio                     | [Adulto](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/ADGuard/adulto)            |
+| **Redes sociais**     | Bloqueia redes sociais específicas                        | [Redes Sociais](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/ADGuard/redes_sociais)     |
+| **Jornais**           | Bloqueia/Libera Jornais/Portais/Blogs                     | [Portais](https://raw.githubusercontent.com/Thiago-Boaventura/IBR-Hospital/refs/heads/main/Backlists/ADGuard/portais)          |
 
 
 > ⚠️ **Use apenas as listas que forem adequadas ao seu ambiente.** Algumas podem impactar o funcionamento de serviços legítimos. Estas listas podem ser utilizadas tantao para bloquear quando liberar.
