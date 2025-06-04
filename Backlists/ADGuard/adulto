@@ -1,0 +1,719 @@
+# Blacklist de Conteúdo Adulto para AdGuard Home
+# Versão Completa 2025 - Internacional e Nacional - Formato AdBlock e Regex
+# ATENÇÃO: Esta lista contém domínios de conteúdo adulto
+
+# ==========================================
+# CATEGORIA: SITES PRINCIPAIS INTERNACIONAIS
+# ==========================================
+
+# Principais plataformas de vídeo adulto
+||pornhub.com^
+/(\.|^)pornhub\.com$/
+||www.pornhub.com^
+/(\.|^)www\.pornhub\.com$/
+||xvideos.com^
+/(\.|^)xvideos\.com$/
+||www.xvideos.com^
+/(\.|^)www\.xvideos\.com$/
+||xnxx.com^
+/(\.|^)xnxx\.com$/
+||www.xnxx.com^
+/(\.|^)www\.xnxx\.com$/
+||redtube.com^
+/(\.|^)redtube\.com$/
+||www.redtube.com^
+/(\.|^)www\.redtube\.com$/
+||tube8.com^
+/(\.|^)tube8\.com$/
+||www.tube8.com^
+/(\.|^)www\.tube8\.com$/
+||youporn.com^
+/(\.|^)youporn\.com$/
+||www.youporn.com^
+/(\.|^)www\.youporn\.com$/
+||xtube.com^
+/(\.|^)xtube\.com$/
+||www.xtube.com^
+/(\.|^)www\.xtube\.com$/
+||spankbang.com^
+/(\.|^)spankbang\.com$/
+||www.spankbang.com^
+/(\.|^)www\.spankbang\.com$/
+||xhamster.com^
+/(\.|^)xhamster\.com$/
+||www.xhamster.com^
+/(\.|^)www\.xhamster\.com$/
+||beeg.com^
+/(\.|^)beeg\.com$/
+||www.beeg.com^
+/(\.|^)www\.beeg\.com$/
+||tnaflix.com^
+/(\.|^)tnaflix\.com$/
+||www.tnaflix.com^
+/(\.|^)www\.tnaflix\.com$/
+||pornhd.com^
+/(\.|^)pornhd\.com$/
+||www.pornhd.com^
+/(\.|^)www\.pornhd\.com$/
+
+# Plataformas premium/pagas
+||brazzers.com^
+/(\.|^)brazzers\.com$/
+||www.brazzers.com^
+/(\.|^)www\.brazzers\.com$/
+||bangbros.com^
+/(\.|^)bangbros\.com$/
+||www.bangbros.com^
+/(\.|^)www\.bangbros\.com$/
+||realitykings.com^
+/(\.|^)realitykings\.com$/
+||www.realitykings.com^
+/(\.|^)www\.realitykings\.com$/
+||naughtyamerica.com^
+/(\.|^)naughtyamerica\.com$/
+||www.naughtyamerica.com^
+/(\.|^)www\.naughtyamerica\.com$/
+||digitalplayground.com^
+/(\.|^)digitalplayground\.com$/
+||www.digitalplayground.com^
+/(\.|^)www\.digitalplayground\.com$/
+||vivid.com^
+/(\.|^)vivid\.com$/
+||www.vivid.com^
+/(\.|^)www\.vivid\.com$/
+||wickedpictures.com^
+/(\.|^)wickedpictures\.com$/
+||www.wickedpictures.com^
+/(\.|^)www\.wickedpictures\.com$/
+||adulttime.com^
+/(\.|^)adulttime\.com$/
+||www.adulttime.com^
+/(\.|^)www\.adulttime\.com$/
+
+# Plataformas de conteúdo próprio
+||onlyfans.com^
+/(\.|^)onlyfans\.com$/
+||www.onlyfans.com^
+/(\.|^)www\.onlyfans\.com$/
+||manyvids.com^
+/(\.|^)manyvids\.com$/
+||www.manyvids.com^
+/(\.|^)www\.manyvids\.com$/
+||clips4sale.com^
+/(\.|^)clips4sale\.com$/
+||www.clips4sale.com^
+/(\.|^)www\.clips4sale\.com$/
+||chaturbate.com^
+/(\.|^)chaturbate\.com$/
+||www.chaturbate.com^
+/(\.|^)www\.chaturbate\.com$/
+||cam4.com^
+/(\.|^)cam4\.com$/
+||www.cam4.com^
+/(\.|^)www\.cam4\.com$/
+||myfreecams.com^
+/(\.|^)myfreecams\.com$/
+||www.myfreecams.com^
+/(\.|^)www\.myfreecams\.com$/
+||camsoda.com^
+/(\.|^)camsoda\.com$/
+||www.camsoda.com^
+/(\.|^)www\.camsoda\.com$/
+||stripchat.com^
+/(\.|^)stripchat\.com$/
+||www.stripchat.com^
+/(\.|^)www\.stripchat\.com$/
+||bongacams.com^
+/(\.|^)bongacams\.com$/
+||www.bongacams.com^
+/(\.|^)www\.bongacams\.com$/
+||livejasmin.com^
+/(\.|^)livejasmin\.com$/
+||www.livejasmin.com^
+/(\.|^)www\.livejasmin\.com$/
+
+# ==========================================
+# CATEGORIA: SITES DE IMAGENS E FOTOS
+# ==========================================
+
+# Principais sites de imagens
+||imagefap.com^
+/(\.|^)imagefap\.com$/
+||www.imagefap.com^
+/(\.|^)www\.imagefap\.com$/
+||4chan.org^
+/(\.|^)4chan\.org$/
+||boards.4chan.org^
+/(\.|^)boards\.4chan\.org$/
+||motherless.com^
+/(\.|^)motherless\.com$/
+||www.motherless.com^
+/(\.|^)www\.motherless\.com$/
+||booru.org^
+/(\.|^)booru\.org$/
+||gelbooru.com^
+/(\.|^)gelbooru\.com$/
+||rule34.xxx^
+/(\.|^)rule34\.xxx$/
+||e621.net^
+/(\.|^)e621\.net$/
+||e926.net^
+/(\.|^)e926\.net$/
+||paheal.net^
+/(\.|^)paheal\.net$/
+
+# Sites de quadrinhos adultos
+||8muses.com^
+/(\.|^)8muses\.com$/
+||www.8muses.com^
+/(\.|^)www\.8muses\.com$/
+||multporn.net^
+/(\.|^)multporn\.net$/
+||www.multporn.net^
+/(\.|^)www\.multporn\.net$/
+||hentai-foundry.com^
+/(\.|^)hentai-foundry\.com$/
+||www.hentai-foundry.com^
+/(\.|^)www\.hentai-foundry\.com$/
+
+# ==========================================
+# CATEGORIA: CONTEÚDO HENTAI/ANIME ADULTO
+# ==========================================
+
+# Principais sites de hentai
+||hentaihaven.org^
+/(\.|^)hentaihaven\.org$/
+||www.hentaihaven.org^
+/(\.|^)www\.hentaihaven\.org$/
+||hanime.tv^
+/(\.|^)hanime\.tv$/
+||www.hanime.tv^
+/(\.|^)www\.hanime\.tv$/
+||nhentai.net^
+/(\.|^)nhentai\.net$/
+||www.nhentai.net^
+/(\.|^)www\.nhentai\.net$/
+||hentai.cafe^
+/(\.|^)hentai\.cafe$/
+||www.hentai.cafe^
+/(\.|^)www\.hentai\.cafe$/
+||hentaigasm.com^
+/(\.|^)hentaigasm\.com$/
+||www.hentaigasm.com^
+/(\.|^)www\.hentaigasm\.com$/
+||hentaistream.com^
+/(\.|^)hentaistream\.com$/
+||www.hentaistream.com^
+/(\.|^)www\.hentaistream\.com$/
+||simply-hentai.com^
+/(\.|^)simply-hentai\.com$/
+||www.simply-hentai.com^
+/(\.|^)www\.simply-hentai\.com$/
+||hentaimama.io^
+/(\.|^)hentaimama\.io$/
+||www.hentaimama.io^
+/(\.|^)www\.hentaimama\.io$/
+||animeidhentai.com^
+/(\.|^)animeidhentai\.com$/
+||www.animeidhentai.com^
+/(\.|^)www\.animeidhentai\.com$/
+
+# Sites de mangá adulto
+||tsumino.com^
+/(\.|^)tsumino\.com$/
+||www.tsumino.com^
+/(\.|^)www\.tsumino\.com$/
+||pururin.io^
+/(\.|^)pururin\.io$/
+||www.pururin.io^
+/(\.|^)www\.pururin\.io$/
+||hitomi.la^
+/(\.|^)hitomi\.la$/
+||www.hitomi.la^
+/(\.|^)www\.hitomi\.la$/
+
+# ==========================================
+# CATEGORIA: SITES DE RELACIONAMENTO ADULTO
+# ==========================================
+
+# Sites de encontros adultos
+||adultfriendfinder.com^
+/(\.|^)adultfriendfinder\.com$/
+||www.adultfriendfinder.com^
+/(\.|^)www\.adultfriendfinder\.com$/
+||ashley-madison.com^
+/(\.|^)ashley-madison\.com$/
+||www.ashley-madison.com^
+/(\.|^)www\.ashley-madison\.com$/
+||seeking.com^
+/(\.|^)seeking\.com$/
+||www.seeking.com^
+/(\.|^)www\.seeking\.com$/
+||fuckbook.com^
+/(\.|^)fuckbook\.com$/
+||www.fuckbook.com^
+/(\.|^)www\.fuckbook\.com$/
+||alt.com^
+/(\.|^)alt\.com$/
+||www.alt.com^
+/(\.|^)www\.alt\.com$/
+||fetlife.com^
+/(\.|^)fetlife\.com$/
+||www.fetlife.com^
+/(\.|^)www\.fetlife\.com$/
+||benaughty.com^
+/(\.|^)benaughty\.com$/
+||www.benaughty.com^
+/(\.|^)www\.benaughty\.com$/
+||flirt.com^
+/(\.|^)flirt\.com$/
+||www.flirt.com^
+/(\.|^)www\.flirt\.com$/
+||passion.com^
+/(\.|^)passion\.com$/
+||www.passion.com^
+/(\.|^)www\.passion\.com$/
+
+# ==========================================
+# CATEGORIA: LOJAS E PRODUTOS ADULTOS
+# ==========================================
+
+# Principais lojas online
+||adameve.com^
+/(\.|^)adameve\.com$/
+||www.adameve.com^
+/(\.|^)www\.adameve\.com$/
+||lovehoney.com^
+/(\.|^)lovehoney\.com$/
+||www.lovehoney.com^
+/(\.|^)www\.lovehoney\.com$/
+||spencers.com^
+/(\.|^)spencers\.com$/
+||www.spencers.com^
+/(\.|^)www\.spencers\.com$/
+||pinkcherry.com^
+/(\.|^)pinkcherry\.com$/
+||www.pinkcherry.com^
+/(\.|^)www\.pinkcherry\.com$/
+||babeland.com^
+/(\.|^)babeland\.com$/
+||www.babeland.com^
+/(\.|^)www\.babeland\.com$/
+||goodvibes.com^
+/(\.|^)goodvibes\.com$/
+||www.goodvibes.com^
+/(\.|^)www\.goodvibes\.com$/
+
+# ==========================================
+# CATEGORIA: FÓRUNS E COMUNIDADES ADULTAS
+# ==========================================
+
+# Fóruns principais
+||adultdvdtalk.com^
+/(\.|^)adultdvdtalk\.com$/
+||www.adultdvdtalk.com^
+/(\.|^)www\.adultdvdtalk\.com$/
+||lustygrandmas.com^
+/(\.|^)lustygrandmas\.com$/
+||www.lustygrandmas.com^
+/(\.|^)www\.lustygrandmas\.com$/
+||sexstories.com^
+/(\.|^)sexstories\.com$/
+||www.sexstories.com^
+/(\.|^)www\.sexstories\.com$/
+||literotica.com^
+/(\.|^)literotica\.com$/
+||www.literotica.com^
+/(\.|^)www\.literotica\.com$/
+||asstr.org^
+/(\.|^)asstr\.org$/
+||www.asstr.org^
+/(\.|^)www\.asstr\.org$/
+
+# ==========================================
+# CATEGORIA: CONTEÚDO NACIONAL (BRASIL)
+# ==========================================
+
+# Sites brasileiros principais
+||brasileirinhas.com.br^
+/(\.|^)brasileirinhas\.com\.br$/
+||www.brasileirinhas.com.br^
+/(\.|^)www\.brasileirinhas\.com\.br$/
+||sexlog.com^
+/(\.|^)sexlog\.com$/
+||www.sexlog.com^
+/(\.|^)www\.sexlog\.com$/
+||acompanhantes.com.br^
+/(\.|^)acompanhantes\.com\.br$/
+||www.acompanhantes.com.br^
+/(\.|^)www\.acompanhantes\.com\.br$/
+||gp-brasil.com.br^
+/(\.|^)gp-brasil\.com\.br$/
+||www.gp-brasil.com.br^
+/(\.|^)www\.gp-brasil\.com\.br$/
+||solonovinhas.com^
+/(\.|^)solonovinhas\.com$/
+||www.solonovinhas.com^
+/(\.|^)www\.solonovinhas\.com$/
+||brasilporn.com^
+/(\.|^)brasilporn\.com$/
+||www.brasilporn.com^
+/(\.|^)www\.brasilporn\.com$/
+||xvideo.com.br^
+/(\.|^)xvideo\.com\.br$/
+||www.xvideo.com.br^
+/(\.|^)www\.xvideo\.com\.br$/
+||novinhasdobrasil.com^
+/(\.|^)novinhasdobrasil\.com$/
+||www.novinhasdobrasil.com^
+/(\.|^)www\.novinhasdobrasil\.com$/
+||gordinhagostosa.com^
+/(\.|^)gordinhagostosa\.com$/
+||www.gordinhagostosa.com^
+/(\.|^)www\.gordinhagostosa\.com$/
+
+# Plataformas de webcam nacionais
+||cam4.com.br^
+/(\.|^)cam4\.com\.br$/
+||br.cam4.com^
+/(\.|^)br\.cam4\.com$/
+||cams.com.br^
+/(\.|^)cams\.com\.br$/
+||www.cams.com.br^
+/(\.|^)www\.cams\.com\.br$/
+||livecam.com.br^
+/(\.|^)livecam\.com\.br$/
+||www.livecam.com.br^
+/(\.|^)www\.livecam\.com\.br$/
+||camster.com.br^
+/(\.|^)camster\.com\.br$/
+||www.camster.com.br^
+/(\.|^)www\.camster\.com\.br$/
+
+# Sites de acompanhantes
+||skokka.com.br^
+/(\.|^)skokka\.com\.br$/
+||www.skokka.com.br^
+/(\.|^)www\.skokka\.com\.br$/
+||photoacompanhantes.com^
+/(\.|^)photoacompanhantes\.com$/
+||www.photoacompanhantes.com^
+/(\.|^)www\.photoacompanhantes\.com$/
+||cinegatas.com.br^
+/(\.|^)cinegatas\.com\.br$/
+||www.cinegatas.com.br^
+/(\.|^)www\.cinegatas\.com\.br$/
+||garotas.com.br^
+/(\.|^)garotas\.com\.br$/
+||www.garotas.com.br^
+/(\.|^)www\.garotas\.com\.br$/
+||classificadosx.com.br^
+/(\.|^)classificadosx\.com\.br$/
+||www.classificadosx.com.br^
+/(\.|^)www\.classificadosx\.com\.br$/
+||seuprazeres.com.br^
+/(\.|^)seuprazeres\.com\.br$/
+||www.seuprazeres.com.br^
+/(\.|^)www\.seuprazeres\.com\.br$/
+
+# Fóruns e comunidades brasileiras
+||contatosex.com.br^
+/(\.|^)contatosex\.com\.br$/
+||www.contatosex.com.br^
+/(\.|^)www\.contatosex\.com\.br$/
+||sexo.blog.br^
+/(\.|^)sexo\.blog\.br$/
+||www.sexo.blog.br^
+/(\.|^)www\.sexo\.blog\.br$/
+||amor.com.br^
+/(\.|^)amor\.com\.br$/
+||www.amor.com.br^
+/(\.|^)www\.amor\.com\.br$/
+
+# Sites de relacionamento adulto brasileiros
+||amigosecreto.com.br^
+/(\.|^)amigosecreto\.com\.br$/
+||www.amigosecreto.com.br^
+/(\.|^)www\.amigosecreto\.com\.br$/
+||encontrosx.com.br^
+/(\.|^)encontrosx\.com\.br$/
+||www.encontrosx.com.br^
+/(\.|^)www\.encontrosx\.com\.br$/
+
+# ==========================================
+# CATEGORIA: CDNs E DOMÍNIOS DE APOIO
+# ==========================================
+
+# CDNs de sites adultos principais
+||phncdn.com^
+/(\.|^)phncdn\.com$/
+||www.phncdn.com^
+/(\.|^)www\.phncdn\.com$/
+||xhcdn.com^
+/(\.|^)xhcdn\.com$/
+||www.xhcdn.com^
+/(\.|^)www\.xhcdn\.com$/
+||xnxx-cdn.com^
+/(\.|^)xnxx-cdn\.com$/
+||www.xnxx-cdn.com^
+/(\.|^)www\.xnxx-cdn\.com$/
+||redtubefiles.com^
+/(\.|^)redtubefiles\.com$/
+||www.redtubefiles.com^
+/(\.|^)www\.redtubefiles\.com$/
+||youpornstatic.com^
+/(\.|^)youpornstatic\.com$/
+||www.youpornstatic.com^
+/(\.|^)www\.youpornstatic\.com$/
+||static.tube8.com^
+/(\.|^)static\.tube8\.com$/
+||beegcdn.com^
+/(\.|^)beegcdn\.com$/
+||www.beegcdn.com^
+/(\.|^)www\.beegcdn\.com$/
+||xhamsterlive.com^
+/(\.|^)xhamsterlive\.com$/
+||www.xhamsterlive.com^
+/(\.|^)www\.xhamsterlive\.com$/
+
+# CDNs de OnlyFans e similares
+||assets.onlyfans.com^
+/(\.|^)assets\.onlyfans\.com$/
+||public.onlyfans.com^
+/(\.|^)public\.onlyfans\.com$/
+||cdn.onlyfans.com^
+/(\.|^)cdn\.onlyfans\.com$/
+
+# ==========================================
+# CATEGORIA: TRACKING E ANALYTICS ADULTOS
+# ==========================================
+
+# Redes de publicidade adulta
+||exoclick.com^
+/(\.|^)exoclick\.com$/
+||www.exoclick.com^
+/(\.|^)www\.exoclick\.com$/
+||trafficjunky.com^
+/(\.|^)trafficjunky\.com$/
+||www.trafficjunky.com^
+/(\.|^)www\.trafficjunky\.com$/
+||ero-advertising.com^
+/(\.|^)ero-advertising\.com$/
+||www.ero-advertising.com^
+/(\.|^)www\.ero-advertising\.com$/
+||adultadworld.com^
+/(\.|^)adultadworld\.com$/
+||www.adultadworld.com^
+/(\.|^)www\.adultadworld\.com$/
+||plugrush.com^
+/(\.|^)plugrush\.com$/
+||www.plugrush.com^
+/(\.|^)www\.plugrush\.com$/
+||juicyads.com^
+/(\.|^)juicyads\.com$/
+||www.juicyads.com^
+/(\.|^)www\.juicyads\.com$/
+||adxpansion.com^
+/(\.|^)adxpansion\.com$/
+||www.adxpansion.com^
+/(\.|^)www\.adxpansion\.com$/
+
+# Analytics específicos
+||adultanalytics.com^
+/(\.|^)adultanalytics\.com$/
+||www.adultanalytics.com^
+/(\.|^)www\.adultanalytics\.com$/
+||webmastercentral.com^
+/(\.|^)webmastercentral\.com$/
+||www.webmastercentral.com^
+/(\.|^)www\.webmastercentral\.com$/
+
+# ==========================================
+# CATEGORIA: TORRENTS E DOWNLOADS ADULTOS
+# ==========================================
+
+# Sites de torrent adulto
+||empornium.me^
+/(\.|^)empornium\.me$/
+||www.empornium.me^
+/(\.|^)www\.empornium\.me$/
+||pornolab.net^
+/(\.|^)pornolab\.net$/
+||www.pornolab.net^
+/(\.|^)www\.pornolab\.net$/
+||pornbay.org^
+/(\.|^)pornbay\.org$/
+||www.pornbay.org^
+/(\.|^)www\.pornbay\.org$/
+
+# ==========================================
+# CATEGORIA: BLOGS E SITES DE NOTÍCIAS ADULTAS
+# ==========================================
+
+# Blogs adultos internacionais
+||fleshbot.com^
+/(\.|^)fleshbot\.com$/
+||www.fleshbot.com^
+/(\.|^)www\.fleshbot\.com$/
+||avn.com^
+/(\.|^)avn\.com$/
+||www.avn.com^
+/(\.|^)www\.avn\.com$/
+||xbiz.com^
+/(\.|^)xbiz\.com$/
+||www.xbiz.com^
+/(\.|^)www\.xbiz\.com$/
+||adultdvdempire.com^
+/(\.|^)adultdvdempire\.com$/
+||www.adultdvdempire.com^
+/(\.|^)www\.adultdvdempire\.com$/
+
+# Blogs nacionais
+||erotika.com.br^
+/(\.|^)erotika\.com\.br$/
+||www.erotika.com.br^
+/(\.|^)www\.erotika\.com\.br$/
+||paparazzo.com.br^
+/(\.|^)paparazzo\.com\.br$/
+||www.paparazzo.com.br^
+/(\.|^)www\.paparazzo\.com\.br$/
+
+# ==========================================
+# CATEGORIA: APLICATIVOS MÓVEIS (DOMÍNIOS)
+# ==========================================
+
+# Domínios de apps adultos
+||grindr.com^
+/(\.|^)grindr\.com$/
+||www.grindr.com^
+/(\.|^)www\.grindr\.com$/
+||scruff.com^
+/(\.|^)scruff\.com$/
+||www.scruff.com^
+/(\.|^)www\.scruff\.com$/
+||adam4adam.com^
+/(\.|^)adam4adam\.com$/
+||www.adam4adam.com^
+/(\.|^)www\.adam4adam\.com$/
+
+# ==========================================
+# CATEGORIA: SITES DE LITERATURA ERÓTICA
+# ==========================================
+
+# Literatura erótica internacional
+||lushstories.com^
+/(\.|^)lushstories\.com$/
+||www.lushstories.com^
+/(\.|^)www\.lushstories\.com$/
+
+# Literatura erótica nacional
+||contos.blog.br^
+/(\.|^)contos\.blog\.br$/
+||www.contos.blog.br^
+/(\.|^)www\.contos\.blog\.br$/
+||contoseroticos.net.br^
+/(\.|^)contoseroticos\.net\.br$/
+||www.contoseroticos.net.br^
+/(\.|^)www\.contoseroticos\.net\.br$/
+||historiaseroticas.com.br^
+/(\.|^)historiaseroticas\.com\.br$/
+||www.historiaseroticas.com.br^
+/(\.|^)www\.historiaseroticas\.com\.br$/
+
+# ==========================================
+# CATEGORIA: DOMÍNIOS ESPECÍFICOS POR PAÍS
+# ==========================================
+
+# Alemanha
+||visit-x.net^
+/(\.|^)visit-x\.net$/
+||www.visit-x.net^
+/(\.|^)www\.visit-x\.net$/
+||mydirtyhobby.de^
+/(\.|^)mydirtyhobby\.de$/
+||www.mydirtyhobby.de^
+/(\.|^)www\.mydirtyhobby\.de$/
+
+# França
+||jacquieetmichel.net^
+/(\.|^)jacquieetmichel\.net$/
+||www.jacquieetmichel.net^
+/(\.|^)www\.jacquieetmichel\.net$/
+||dorcel.com^
+/(\.|^)dorcel\.com$/
+||www.dorcel.com^
+/(\.|^)www\.dorcel\.com$/
+
+# Japão
+||fc2.com^
+/(\.|^)fc2\.com$/
+||adult.fc2.com^
+/(\.|^)adult\.fc2\.com$/
+||dmm.co.jp^
+/(\.|^)dmm\.co\.jp$/
+||www.dmm.co.jp^
+/(\.|^)www\.dmm\.co\.jp$/
+
+# Reino Unido
+||babestation.tv^
+/(\.|^)babestation\.tv$/
+||www.babestation.tv^
+/(\.|^)www\.babestation\.tv$/
+
+# Espanha
+||private.com^
+/(\.|^)private\.com$/
+||www.private.com^
+/(\.|^)www\.private\.com$/
+
+# ==========================================
+# CATEGORIA: OUTROS DOMÍNIOS RELACIONADOS
+# ==========================================
+
+# Jogos adultos
+||nutaku.net^
+/(\.|^)nutaku\.net$/
+||www.nutaku.net^
+/(\.|^)www\.nutaku\.net$/
+||lewdgames.net^
+/(\.|^)lewdgames\.net$/
+||www.lewdgames.net^
+/(\.|^)www\.lewdgames\.net$/
+||f95zone.to^
+/(\.|^)f95zone\.to$/
+||www.f95zone.to^
+/(\.|^)www\.f95zone\.to$/
+
+# VR adulto
+||virtualrealporn.com^
+/(\.|^)virtualrealporn\.com$/
+||www.virtualrealporn.com^
+/(\.|^)www\.virtualrealporn\.com$/
+||vr-porn.com^
+/(\.|^)vr-porn\.com$/
+||www.vr-porn.com^
+/(\.|^)www\.vr-porn\.com$/
+
+# Sites de verificação de idade
+||agecheck.net^
+/(\.|^)agecheck\.net$/
+||www.agecheck.net^
+/(\.|^)www\.agecheck\.net$/
+||agechecker.net^
+/(\.|^)agechecker\.net$/
+||www.agechecker.net^
+/(\.|^)www\.agechecker\.net$/
+
+# Sistemas de pagamento específicos
+||ccbill.com^
+/(\.|^)ccbill\.com$/
+||www.ccbill.com^
+/(\.|^)www\.ccbill\.com$/
+||segpay.com^
+/(\.|^)segpay\.com$/
+||www.segpay.com^
+/(\.|^)www\.segpay\.com$/
+||epoch.com^
+/(\.|^)epoch\.com$/
+||www.epoch.com^
+/(\.|^)www\.epoch\.com$/

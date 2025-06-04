@@ -1,0 +1,905 @@
+# Blacklist de Rastreadores para AdGuard Home
+# Versão 2025 - Foco em Privacidade e Proteção de Dados
+# Formato: ||dominio.com^ e /(\.|^)dominio\.com$/
+
+# ==========================================
+# CATEGORIA: GOOGLE TRACKING
+# ==========================================
+
+# Google Analytics
+||google-analytics.com^
+/(\.|^)google-analytics\.com$/
+||www.google-analytics.com^
+/(\.|^)www\.google-analytics\.com$/
+||googleanalytics.com^
+/(\.|^)googleanalytics\.com$/
+||www.googleanalytics.com^
+/(\.|^)www\.googleanalytics\.com$/
+||analytics.google.com^
+/(\.|^)analytics\.google\.com$/
+||ssl.google-analytics.com^
+/(\.|^)ssl\.google-analytics\.com$/
+||stats.g.doubleclick.net^
+/(\.|^)stats\.g\.doubleclick\.net$/
+
+# Google Tag Manager
+||googletagmanager.com^
+/(\.|^)googletagmanager\.com$/
+||www.googletagmanager.com^
+/(\.|^)www\.googletagmanager\.com$/
+||googletagservices.com^
+/(\.|^)googletagservices\.com$/
+||www.googletagservices.com^
+/(\.|^)www\.googletagservices\.com$/
+
+# Google Tracking Pixels
+||google.com/analytics^
+/(\.|^)google\.com\/analytics$/
+||www.google.com/analytics^
+/(\.|^)www\.google\.com\/analytics$/
+||google.com/pagead^
+/(\.|^)google\.com\/pagead$/
+||www.google.com/pagead^
+/(\.|^)www\.google\.com\/pagead$/
+
+# Google Firebase Analytics
+||firebase.google.com^
+/(\.|^)firebase\.google\.com$/
+||www.firebase.google.com^
+/(\.|^)www\.firebase\.google\.com$/
+||firebase-settings.crashlytics.com^
+/(\.|^)firebase-settings\.crashlytics\.com$/
+||crashlytics.com^
+/(\.|^)crashlytics\.com$/
+||www.crashlytics.com^
+/(\.|^)www\.crashlytics\.com$/
+
+# Google Marketing Platform
+||marketingplatform.google.com^
+/(\.|^)marketingplatform\.google\.com$/
+||optimize.google.com^
+/(\.|^)optimize\.google\.com$/
+||surveys.google.com^
+/(\.|^)surveys\.google\.com$/
+
+# ==========================================
+# CATEGORY: FACEBOOK/META TRACKING
+# ==========================================
+
+# Facebook Pixel
+||facebook.com/tr^
+/(\.|^)facebook\.com\/tr$/
+||www.facebook.com/tr^
+/(\.|^)www\.facebook\.com\/tr$/
+||connect.facebook.net^
+/(\.|^)connect\.facebook\.net$/
+||www.connect.facebook.net^
+/(\.|^)www\.connect\.facebook\.net$/
+
+# Facebook Analytics
+||analytics.facebook.com^
+/(\.|^)analytics\.facebook\.com$/
+||www.facebook.com/analytics^
+/(\.|^)www\.facebook\.com\/analytics$/
+
+# Instagram Tracking
+||platform.instagram.com^
+/(\.|^)platform\.instagram\.com$/
+||www.instagram.com/embed.js^
+/(\.|^)www\.instagram\.com\/embed\.js$/
+||instagram.com/logging_client_events^
+/(\.|^)instagram\.com\/logging_client_events$/
+
+# WhatsApp Business API Tracking
+||graph.whatsapp.com^
+/(\.|^)graph\.whatsapp\.com$/
+||api.whatsapp.com^
+/(\.|^)api\.whatsapp\.com$/
+
+# Meta Pixel
+||pixel.facebook.com^
+/(\.|^)pixel\.facebook\.com$/
+||business.facebook.com/pixel^
+/(\.|^)business\.facebook\.com\/pixel$/
+
+# ==========================================
+# CATEGORIA: ADOBE TRACKING SUITE
+# ==========================================
+
+# Adobe Analytics (Omniture)
+||omniture.com^
+/(\.|^)omniture\.com$/
+||www.omniture.com^
+/(\.|^)www\.omniture\.com$/
+||omtrdc.net^
+/(\.|^)omtrdc\.net$/
+||www.omtrdc.net^
+/(\.|^)www\.omtrdc\.net$/
+||2o7.net^
+/(\.|^)2o7\.net$/
+||www.2o7.net^
+/(\.|^)www\.2o7\.net$/
+
+# Adobe Audience Manager
+||demdex.net^
+/(\.|^)demdex\.net$/
+||www.demdex.net^
+/(\.|^)www\.demdex\.net$/
+||dpm.demdex.net^
+/(\.|^)dpm\.demdex\.net$/
+
+# Adobe Experience Cloud
+||sc.omtrdc.net^
+/(\.|^)sc\.omtrdc\.net$/
+||adobe.com/data-collection^
+/(\.|^)adobe\.com\/data-collection$/
+||adobedtm.com^
+/(\.|^)adobedtm\.com$/
+||www.adobedtm.com^
+/(\.|^)www\.adobedtm\.com$/
+
+# Adobe Target
+||tt.omtrdc.net^
+/(\.|^)tt\.omtrdc\.net$/
+||mboxedge.net^
+/(\.|^)mboxedge\.net$/
+||www.mboxedge.net^
+/(\.|^)www\.mboxedge\.net$/
+
+# Adobe Campaign
+||neolane.net^
+/(\.|^)neolane\.net$/
+||www.neolane.net^
+/(\.|^)www\.neolane\.net$/
+
+# ==========================================
+# CATEGORIA: MICROSOFT TRACKING
+# ==========================================
+
+# Microsoft Clarity
+||clarity.ms^
+/(\.|^)clarity\.ms$/
+||www.clarity.ms^
+/(\.|^)www\.clarity\.ms$/
+||c.clarity.ms^
+/(\.|^)c\.clarity\.ms$/
+
+# Bing UET (Universal Event Tracking)
+||bat.bing.com^
+/(\.|^)bat\.bing\.com$/
+||www.bat.bing.com^
+/(\.|^)www\.bat\.bing\.com$/
+||uet.bing.com^
+/(\.|^)uet\.bing\.com$/
+
+# Microsoft Application Insights
+||dc.services.visualstudio.com^
+/(\.|^)dc\.services\.visualstudio\.com$/
+||dc.applicationinsights.microsoft.com^
+/(\.|^)dc\.applicationinsights\.microsoft\.com$/
+
+# Office 365 Telemetry
+||office.com/telemetry^
+/(\.|^)office\.com\/telemetry$/
+||config.office.com^
+/(\.|^)config\.office\.com$/
+
+# ==========================================
+# CATEGORIA: AMAZON TRACKING
+# ==========================================
+
+# Amazon Analytics
+||amazon.com/analytics^
+/(\.|^)amazon\.com\/analytics$/
+||analytics.amazon.com^
+/(\.|^)analytics\.amazon\.com$/
+||amazon-analytics.com^
+/(\.|^)amazon-analytics\.com$/
+||www.amazon-analytics.com^
+/(\.|^)www\.amazon-analytics\.com$/
+
+# Amazon Pixel
+||amazon.com/ap/pixel^
+/(\.|^)amazon\.com\/ap\/pixel$/
+||pixel.amazon.com^
+/(\.|^)pixel\.amazon\.com$/
+
+# Amazon Kinesis
+||kinesis.us-east-1.amazonaws.com^
+/(\.|^)kinesis\.us-east-1\.amazonaws\.com$/
+||kinesis.eu-west-1.amazonaws.com^
+/(\.|^)kinesis\.eu-west-1\.amazonaws\.com$/
+
+# Amazon Personalize
+||personalize.amazonaws.com^
+/(\.|^)personalize\.amazonaws\.com$/
+
+# ==========================================
+# CATEGORIA: TWITTER/X TRACKING
+# ==========================================
+
+# Twitter Analytics
+||analytics.twitter.com^
+/(\.|^)analytics\.twitter\.com$/
+||twitter.com/i/analytics^
+/(\.|^)twitter\.com\/i\/analytics$/
+
+# Twitter Conversion Tracking
+||t.co/i/adsct^
+/(\.|^)t\.co\/i\/adsct$/
+||platform.twitter.com/widgets.js^
+/(\.|^)platform\.twitter\.com\/widgets\.js$/
+
+# Twitter Pixel
+||static.ads-twitter.com^
+/(\.|^)static\.ads-twitter\.com$/
+||ads-api.twitter.com^
+/(\.|^)ads-api\.twitter\.com$/
+
+# ==========================================
+# CATEGORIA: LINKEDIN TRACKING
+# ==========================================
+
+# LinkedIn Insight Tag
+||linkedin.com/analytics^
+/(\.|^)linkedin\.com\/analytics$/
+||platform.linkedin.com^
+/(\.|^)platform\.linkedin\.com$/
+||snap.licdn.com^
+/(\.|^)snap\.licdn\.com$/
+
+# LinkedIn Conversion Tracking
+||px.ads.linkedin.com^
+/(\.|^)px\.ads\.linkedin\.com$/
+||analytics.pointdrive.linkedin.com^
+/(\.|^)analytics\.pointdrive\.linkedin\.com$/
+
+# ==========================================
+# CATEGORIA: TIKTOK TRACKING
+# ==========================================
+
+# TikTok Pixel
+||analytics.tiktok.com^
+/(\.|^)analytics\.tiktok\.com$/
+||ads.tiktok.com^
+/(\.|^)ads\.tiktok\.com$/
+||business-api.tiktok.com^
+/(\.|^)business-api\.tiktok\.com$/
+
+# TikTok Events API
+||events.tiktok.com^
+/(\.|^)events\.tiktok\.com$/
+||pixel.tiktokv.com^
+/(\.|^)pixel\.tiktokv\.com$/
+
+# ==========================================
+# CATEGORIA: SNAPCHAT TRACKING
+# ==========================================
+
+# Snapchat Pixel
+||tr.snapchat.com^
+/(\.|^)tr\.snapchat\.com$/
+||sc-static.net^
+/(\.|^)sc-static\.net$/
+||ads.snapchat.com^
+/(\.|^)ads\.snapchat\.com$/
+
+# Snapchat Analytics
+||analytics.snapchat.com^
+/(\.|^)analytics\.snapchat\.com$/
+
+# ==========================================
+# CATEGORIA: PINTEREST TRACKING
+# ==========================================
+
+# Pinterest Analytics
+||analytics.pinterest.com^
+/(\.|^)analytics\.pinterest\.com$/
+||log.pinterest.com^
+/(\.|^)log\.pinterest\.com$/
+
+# Pinterest Conversion Tracking
+||ct.pinterest.com^
+/(\.|^)ct\.pinterest\.com$/
+||trk.pinterest.com^
+/(\.|^)trk\.pinterest\.com$/
+
+# ==========================================
+# CATEGORIA: MAJOR ANALYTICS PLATFORMS
+# ==========================================
+
+# Quantcast
+||quantcast.com^
+/(\.|^)quantcast\.com$/
+||www.quantcast.com^
+/(\.|^)www\.quantcast\.com$/
+||quantserve.com^
+/(\.|^)quantserve\.com$/
+||www.quantserve.com^
+/(\.|^)www\.quantserve\.com$/
+||pixel.quantserve.com^
+/(\.|^)pixel\.quantserve\.com$/
+
+# ComScore
+||comscore.com^
+/(\.|^)comscore\.com$/
+||www.comscore.com^
+/(\.|^)www\.comscore\.com$/
+||scorecardresearch.com^
+/(\.|^)scorecardresearch\.com$/
+||www.scorecardresearch.com^
+/(\.|^)www\.scorecardresearch\.com$/
+||sb.scorecardresearch.com^
+/(\.|^)sb\.scorecardresearch\.com$/
+
+# Nielsen
+||nielsen.com^
+/(\.|^)nielsen\.com$/
+||www.nielsen.com^
+/(\.|^)www\.nielsen\.com$/
+||imrworldwide.com^
+/(\.|^)imrworldwide\.com$/
+||www.imrworldwide.com^
+/(\.|^)www\.imrworldwide\.com$/
+||secure-us.imrworldwide.com^
+/(\.|^)secure-us\.imrworldwide\.com$/
+
+# Chartbeat
+||chartbeat.com^
+/(\.|^)chartbeat\.com$/
+||www.chartbeat.com^
+/(\.|^)www\.chartbeat\.com$/
+||static.chartbeat.com^
+/(\.|^)static\.chartbeat\.com$/
+||ping.chartbeat.net^
+/(\.|^)ping\.chartbeat\.net$/
+
+# Parse.ly
+||parsely.com^
+/(\.|^)parsely\.com$/
+||www.parsely.com^
+/(\.|^)www\.parsely\.com$/
+||srv.parsely.com^
+/(\.|^)srv\.parsely\.com$/
+
+# ==========================================
+# CATEGORIA: HEATMAP E BEHAVIOR TRACKING
+# ==========================================
+
+# Hotjar
+||hotjar.com^
+/(\.|^)hotjar\.com$/
+||www.hotjar.com^
+/(\.|^)www\.hotjar\.com$/
+||static.hotjar.com^
+/(\.|^)static\.hotjar\.com$/
+||script.hotjar.com^
+/(\.|^)script\.hotjar\.com$/
+||insights.hotjar.com^
+/(\.|^)insights\.hotjar\.com$/
+||surveys.hotjar.com^
+/(\.|^)surveys\.hotjar\.com$/
+
+# Crazy Egg
+||crazyegg.com^
+/(\.|^)crazyegg\.com$/
+||www.crazyegg.com^
+/(\.|^)www\.crazyegg\.com$/
+||script.crazyegg.com^
+/(\.|^)script\.crazyegg\.com$/
+||cetrk.com^
+/(\.|^)cetrk\.com$/
+||www.cetrk.com^
+/(\.|^)www\.cetrk\.com$/
+
+# FullStory
+||fullstory.com^
+/(\.|^)fullstory\.com$/
+||www.fullstory.com^
+/(\.|^)www\.fullstory\.com$/
+||rs.fullstory.com^
+/(\.|^)rs\.fullstory\.com$/
+
+# LogRocket
+||logrocket.com^
+/(\.|^)logrocket\.com$/
+||www.logrocket.com^
+/(\.|^)www\.logrocket\.com$/
+||logrocket.io^
+/(\.|^)logrocket\.io$/
+||www.logrocket.io^
+/(\.|^)www\.logrocket\.io$/
+
+# Mouseflow
+||mouseflow.com^
+/(\.|^)mouseflow\.com$/
+||www.mouseflow.com^
+/(\.|^)www\.mouseflow\.com$/
+||cdn.mouseflow.com^
+/(\.|^)cdn\.mouseflow\.com$/
+
+# Lucky Orange
+||luckyorange.com^
+/(\.|^)luckyorange\.com$/
+||www.luckyorange.com^
+/(\.|^)www\.luckyorange\.com$/
+||cdn.luckyorange.com^
+/(\.|^)cdn\.luckyorange\.com$/
+
+# Inspectlet
+||inspectlet.com^
+/(\.|^)inspectlet\.com$/
+||www.inspectlet.com^
+/(\.|^)www\.inspectlet\.com$/
+||cdn.inspectlet.com^
+/(\.|^)cdn\.inspectlet\.com$/
+
+# ==========================================
+# CATEGORIA: A/B TESTING E OPTIMIZATION
+# ==========================================
+
+# Optimizely
+||optimizely.com^
+/(\.|^)optimizely\.com$/
+||www.optimizely.com^
+/(\.|^)www\.optimizely\.com$/
+||cdn.optimizely.com^
+/(\.|^)cdn\.optimizely\.com$/
+||p13nlog.optimizely.com^
+/(\.|^)p13nlog\.optimizely\.com$/
+
+# VWO (Visual Website Optimizer)
+||vwo.com^
+/(\.|^)vwo\.com$/
+||www.vwo.com^
+/(\.|^)www\.vwo\.com$/
+||dev.visualwebsiteoptimizer.com^
+/(\.|^)dev\.visualwebsiteoptimizer\.com$/
+||wingify.com^
+/(\.|^)wingify\.com$/
+||www.wingify.com^
+/(\.|^)www\.wingify\.com$/
+
+# Google Optimize
+||www.google-analytics.com/gtm^
+/(\.|^)www\.google-analytics\.com\/gtm$/
+
+# Unbounce
+||unbounce.com^
+/(\.|^)unbounce\.com$/
+||www.unbounce.com^
+/(\.|^)www\.unbounce\.com$/
+
+# ==========================================
+# CATEGORIA: CUSTOMER DATA PLATFORMS
+# ==========================================
+
+# Segment
+||segment.com^
+/(\.|^)segment\.com$/
+||www.segment.com^
+/(\.|^)www\.segment\.com$/
+||api.segment.io^
+/(\.|^)api\.segment\.io$/
+||cdn.segment.com^
+/(\.|^)cdn\.segment\.com$/
+||analytics.segment.io^
+/(\.|^)analytics\.segment\.io$/
+
+# mParticle
+||mparticle.com^
+/(\.|^)mparticle\.com$/
+||www.mparticle.com^
+/(\.|^)www\.mparticle\.com$/
+||jssdkcdns.mparticle.com^
+/(\.|^)jssdkcdns\.mparticle\.com$/
+
+# Tealium
+||tealium.com^
+/(\.|^)tealium\.com$/
+||www.tealium.com^
+/(\.|^)www\.tealium\.com$/
+||tags.tiqcdn.com^
+/(\.|^)tags\.tiqcdn\.com$/
+||utag.salesforce.com^
+/(\.|^)utag\.salesforce\.com$/
+
+# Amplitude
+||amplitude.com^
+/(\.|^)amplitude\.com$/
+||www.amplitude.com^
+/(\.|^)www\.amplitude\.com$/
+||api.amplitude.com^
+/(\.|^)api\.amplitude\.com$/
+||cdn.amplitude.com^
+/(\.|^)cdn\.amplitude\.com$/
+
+# Mixpanel
+||mixpanel.com^
+/(\.|^)mixpanel\.com$/
+||www.mixpanel.com^
+/(\.|^)www\.mixpanel\.com$/
+||api.mixpanel.com^
+/(\.|^)api\.mixpanel\.com$/
+||cdn.mxpnl.com^
+/(\.|^)cdn\.mxpnl\.com$/
+
+# ==========================================
+# CATEGORIA: DATA BROKERS E ENRICHMENT
+# ==========================================
+
+# Acxiom/LiveRamp
+||acxiom.com^
+/(\.|^)acxiom\.com$/
+||www.acxiom.com^
+/(\.|^)www\.acxiom\.com$/
+||liveramp.com^
+/(\.|^)liveramp\.com$/
+||www.liveramp.com^
+/(\.|^)www\.liveramp\.com$/
+||rlcdn.com^
+/(\.|^)rlcdn\.com$/
+||www.rlcdn.com^
+/(\.|^)www\.rlcdn\.com$/
+
+# Experian
+||experian.com/marketing^
+/(\.|^)experian\.com\/marketing$/
+||marketing.experian.com^
+/(\.|^)marketing\.experian\.com$/
+
+# Epsilon
+||epsilon.com^
+/(\.|^)epsilon\.com$/
+||www.epsilon.com^
+/(\.|^)www\.epsilon\.com$/
+||epsilonmedia.com^
+/(\.|^)epsilonmedia\.com$/
+||www.epsilonmedia.com^
+/(\.|^)www\.epsilonmedia\.com$/
+
+# Lotame
+||lotame.com^
+/(\.|^)lotame\.com$/
+||www.lotame.com^
+/(\.|^)www\.lotame\.com$/
+||crwdcntrl.net^
+/(\.|^)crwdcntrl\.net$/
+||www.crwdcntrl.net^
+/(\.|^)www\.crwdcntrl\.net$/
+
+# BlueKai (Oracle)
+||bluekai.com^
+/(\.|^)bluekai\.com$/
+||www.bluekai.com^
+/(\.|^)www\.bluekai\.com$/
+||tags.bluekai.com^
+/(\.|^)tags\.bluekai\.com$/
+||bkrtx.com^
+/(\.|^)bkrtx\.com$/
+||www.bkrtx.com^
+/(\.|^)www\.bkrtx\.com$/
+
+# ==========================================
+# CATEGORIA: ATTRIBUTION TRACKING
+# ==========================================
+
+# Branch
+||branch.io^
+/(\.|^)branch\.io$/
+||www.branch.io^
+/(\.|^)www\.branch\.io$/
+||api.branch.io^
+/(\.|^)api\.branch\.io$/
+||cdn.branch.io^
+/(\.|^)cdn\.branch\.io$/
+
+# AppsFlyer
+||appsflyer.com^
+/(\.|^)appsflyer\.com$/
+||www.appsflyer.com^
+/(\.|^)www\.appsflyer\.com$/
+||api.appsflyer.com^
+/(\.|^)api\.appsflyer\.com$/
+
+# Adjust
+||adjust.com^
+/(\.|^)adjust\.com$/
+||www.adjust.com^
+/(\.|^)www\.adjust\.com$/
+||api.adjust.com^
+/(\.|^)api\.adjust\.com$/
+
+# Kochava
+||kochava.com^
+/(\.|^)kochava\.com$/
+||www.kochava.com^
+/(\.|^)www\.kochava\.com$/
+
+# Singular
+||singular.net^
+/(\.|^)singular\.net$/
+||www.singular.net^
+/(\.|^)www\.singular\.net$/
+
+# ==========================================
+# CATEGORIA: EMAIL TRACKING
+# ==========================================
+
+# Mailchimp Tracking
+||list-manage.com^
+/(\.|^)list-manage\.com$/
+||click.mailchimp.com^
+/(\.|^)click\.mailchimp\.com$/
+||mailchimp.com/analytics^
+/(\.|^)mailchimp\.com\/analytics$/
+
+# Constant Contact
+||constantcontact.com/tracking^
+/(\.|^)constantcontact\.com\/tracking$/
+||click.constantcontact.com^
+/(\.|^)click\.constantcontact\.com$/
+
+# SendGrid
+||sendgrid.net/tracking^
+/(\.|^)sendgrid\.net\/tracking$/
+||click.sendgrid.net^
+/(\.|^)click\.sendgrid\.net$/
+||sendgrid.com/analytics^
+/(\.|^)sendgrid\.com\/analytics$/
+
+# Mandrill
+||click.mandrillapp.com^
+/(\.|^)click\.mandrillapp\.com$/
+||mandrillapp.com/track^
+/(\.|^)mandrillapp\.com\/track$/
+
+# Campaign Monitor
+||createsend.com/t^
+/(\.|^)createsend\.com\/t$/
+||click.createsend.com^
+/(\.|^)click\.createsend\.com$/
+
+# AWeber
+||aweber.com/track^
+/(\.|^)aweber\.com\/track$/
+||click.aweber.com^
+/(\.|^)click\.aweber\.com$/
+
+# GetResponse
+||getresponse.com/click^
+/(\.|^)getresponse\.com\/click$/
+||click.getresponse.com^
+/(\.|^)click\.getresponse\.com$/
+
+# ==========================================
+# CATEGORIA: SOCIAL MEDIA TRACKING
+# ==========================================
+
+# ShareThis
+||sharethis.com^
+/(\.|^)sharethis\.com$/
+||www.sharethis.com^
+/(\.|^)www\.sharethis\.com$/
+||platform-api.sharethis.com^
+/(\.|^)platform-api\.sharethis\.com$/
+||t.sharethis.com^
+/(\.|^)t\.sharethis\.com$/
+
+# AddThis
+||addthis.com^
+/(\.|^)addthis\.com$/
+||www.addthis.com^
+/(\.|^)www\.addthis\.com$/
+||s7.addthis.com^
+/(\.|^)s7\.addthis\.com$/
+||cache.addthiscdn.com^
+/(\.|^)cache\.addthiscdn\.com$/
+
+# Social Login Tracking
+||loginradius.com^
+/(\.|^)loginradius\.com$/
+||www.loginradius.com^
+/(\.|^)www\.loginradius\.com$/
+||janrain.com^
+/(\.|^)janrain\.com$/
+||www.janrain.com^
+/(\.|^)www\.janrain\.com$/
+
+# ==========================================
+# CATEGORIA: PUSH NOTIFICATION TRACKING
+# ==========================================
+
+# OneSignal
+||onesignal.com^
+/(\.|^)onesignal\.com$/
+||www.onesignal.com^
+/(\.|^)www\.onesignal\.com$/
+||cdn.onesignal.com^
+/(\.|^)cdn\.onesignal\.com$/
+
+# Pushwoosh
+||pushwoosh.com^
+/(\.|^)pushwoosh\.com$/
+||www.pushwoosh.com^
+/(\.|^)www\.pushwoosh\.com$/
+||cp.pushwoosh.com^
+/(\.|^)cp\.pushwoosh\.com$/
+
+# PushEngage
+||pushengage.com^
+/(\.|^)pushengage\.com$/
+||www.pushengage.com^
+/(\.|^)www\.pushengage\.com$/
+
+# Airship (Urban Airship)
+||airship.com^
+/(\.|^)airship\.com$/
+||www.airship.com^
+/(\.|^)www\.airship\.com$/
+||urbanairship.com^
+/(\.|^)urbanairship\.com$/
+||www.urbanairship.com^
+/(\.|^)www\.urbanairship\.com$/
+
+# ==========================================
+# CATEGORIA: MOBILE APP TRACKING
+# ==========================================
+
+# Flurry Analytics
+||flurry.com^
+/(\.|^)flurry\.com$/
+||www.flurry.com^
+/(\.|^)www\.flurry\.com$/
+||data.flurry.com^
+/(\.|^)data\.flurry\.com$/
+
+# Firebase Analytics (já listado em Google)
+||app-measurement.com^
+/(\.|^)app-measurement\.com$/
+||www.app-measurement.com^
+/(\.|^)www\.app-measurement\.com$/
+
+# Fabric/Crashlytics
+||fabric.io^
+/(\.|^)fabric\.io$/
+||www.fabric.io^
+/(\.|^)www\.fabric\.io$/
+
+# New Relic Mobile
+||newrelic.com^
+/(\.|^)newrelic\.com$/
+||mobile-collector.newrelic.com^
+/(\.|^)mobile-collector\.newrelic\.com$/
+||js-agent.newrelic.com^
+/(\.|^)js-agent\.newrelic\.com$/
+
+# ==========================================
+# CATEGORIA: SURVEY E FEEDBACK TRACKING
+# ==========================================
+
+# Qualtrics
+||qualtrics.com^
+/(\.|^)qualtrics\.com$/
+||www.qualtrics.com^
+/(\.|^)www\.qualtrics\.com$/
+||siteintercept.qualtrics.com^
+/(\.|^)siteintercept\.qualtrics\.com$/
+
+# SurveyMonkey
+||surveymonkey.com/collect^
+/(\.|^)surveymonkey\.com\/collect$/
+||secure.surveymonkey.com^
+/(\.|^)secure\.surveymonkey\.com$/
+
+# Typeform
+||typeform.com/embed^
+/(\.|^)typeform\.com\/embed$/
+||embed.typeform.com^
+/(\.|^)embed\.typeform\.com$/
+
+# UserVoice
+||uservoice.com^
+/(\.|^)uservoice\.com$/
+||widget.uservoice.com^
+/(\.|^)widget\.uservoice\.com$/
+
+# Zendesk
+||zendesk.com/embeds^
+/(\.|^)zendesk\.com\/embeds$/
+||static.zendesk.com^
+/(\.|^)static\.zendesk\.com$/
+
+# ==========================================
+# CATEGORIA: ECOMMERCE TRACKING
+# ==========================================
+
+# Shopify Analytics
+||shopify.com/analytics^
+/(\.|^)shopify\.com\/analytics$/
+||monorail-edge.shopifysvc.com^
+/(\.|^)monorail-edge\.shopifysvc\.com$/
+
+# Magento Tracking
+||magento.com/analytics^
+/(\.|^)magento\.com\/analytics$/
+
+# WooCommerce Tracking
+||woocommerce.com/usage-tracking^
+/(\.|^)woocommerce\.com\/usage-tracking$/
+
+# BigCommerce Tracking
+||bigcommerce.com/analytics^
+/(\.|^)bigcommerce\.com\/analytics$/
+
+# ==========================================
+# CATEGORIA: CDN E THIRD-PARTY TRACKERS
+# ==========================================
+
+# Generic Tracking CDNs
+||tracker.com^
+/(\.|^)tracker\.com$/
+||www.tracker.com^
+/(\.|^)www\.tracker\.com$/
+||analytics.com^
+/(\.|^)analytics\.com$/
+||www.analytics.com^
+/(\.|^)www\.analytics\.com$/
+||metrics.com^
+/(\.|^)metrics\.com$/
+||www.metrics.com^
+/(\.|^)www\.metrics\.com$/
+||stats.com^
+/(\.|^)stats\.com$/
+||www.stats.com^
+/(\.|^)www\.stats\.com$/
+
+# Pixel Tracking Services
+||pixel.com^
+/(\.|^)pixel\.com$/
+||www.pixel.com^
+/(\.|^)www\.pixel\.com$/
+||beacon.com^
+/(\.|^)beacon\.com$/
+||www.beacon.com^
+/(\.|^)www\.beacon\.com$/
+||tracking.com^
+/(\.|^)tracking\.com$/
+||www.tracking.com^
+/(\.|^)www\.tracking\.com$/
+
+# ==========================================
+# CATEGORIA: FINGERPRINTING SERVICES
+# ==========================================
+
+# Device Fingerprinting
+||fingerprintjs.com^
+/(\.|^)fingerprintjs\.com$/
+||www.fingerprintjs.com^
+/(\.|^)www\.fingerprintjs\.com$/
+||clientjs.org^
+/(\.|^)clientjs\.org$/
+||www.clientjs.org^
+/(\.|^)www\.clientjs\.org$/
+
+# ThreatMetrix
+||h.online-metrix.net^
+/(\.|^)h\.online-metrix\.net$/
+||threatmetrix.com^
+/(\.|^)threatmetrix\.com$/
+||www.threatmetrix.com^
+/(\.|^)www\.threatmetrix\.com$/
+
+# iovation
+||iovation.com^
+/(\.|^)iovation\.com$/
+||www.iovation.com^
+/(\.|^)www\.iovation\.com$/
+
+# ==========================================
+# CATEGORIA: LOCATION TRACKING
+# ==========================================
+
+# Foursquare/Swarm API
+||api.foursquare.com^
+/(\.|^)

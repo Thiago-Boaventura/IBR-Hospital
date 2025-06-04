@@ -1,0 +1,557 @@
+# Blacklist de Anuncios para AdGuard Home
+# Versão 2025 - Redes de Publicidade, Trackers e Analytics
+# Formato: ||dominio.com^ e regex /(\.|^)dominio\.com$/
+
+# ==========================================
+# CATEGORIA: GOOGLE ADS E DOUBLECLICK
+# ==========================================
+
+# Google Ads principais
+||googleads.com^
+/(\.|^)googleads\.com$/
+||googlesyndication.com^
+/(\.|^)googlesyndication\.com$/
+||googleadservices.com^
+/(\.|^)googleadservices\.com$/
+||googletagservices.com^
+/(\.|^)googletagservices\.com$/
+||googletagmanager.com^
+/(\.|^)googletagmanager\.com$/
+
+# DoubleClick (Google)
+||doubleclick.net^
+/(\.|^)doubleclick\.net$/
+||doubleclick.com^
+/(\.|^)doubleclick\.com$/
+||googledoubleclick.net^
+/(\.|^)googledoubleclick\.net$/
+||2mdn.net^
+/(\.|^)2mdn\.net$/
+
+# Google Analytics e Tracking
+||google-analytics.com^
+/(\.|^)google-analytics\.com$/
+||googleanalytics.com^
+/(\.|^)googleanalytics\.com$/
+
+# Google AdSense
+||pagead2.googlesyndication.com^
+/(\.|^)pagead2\.googlesyndication\.com$/
+||tpc.googlesyndication.com^
+/(\.|^)tpc\.googlesyndication\.com$/
+||partner.googleadservices.com^
+/(\.|^)partner\.googleadservices\.com$/
+
+# ==========================================
+# CATEGORIA: FACEBOOK/META ADS
+# ==========================================
+
+# Facebook Ads
+||connect.facebook.net^
+/(\.|^)connect\.facebook\.net$/
+
+# Instagram Ads
+||platform.instagram.com^
+/(\.|^)platform\.instagram\.com$/
+
+# Audience Network
+||audiencenetwork.com^
+/(\.|^)audiencenetwork\.com$/
+
+# ==========================================
+# CATEGORIA: AMAZON ADS
+# ==========================================
+
+# Amazon Advertising
+||amazon-adsystem.com^
+/(\.|^)amazon-adsystem\.com$/
+||amazonaax.com^
+/(\.|^)amazonaax\.com$/
+||amazonclix.com^
+/(\.|^)amazonclix\.com$/
+||assoc-amazon.com^
+/(\.|^)assoc-amazon\.com$/
+
+# ==========================================
+# CATEGORIA: MICROSOFT/BING ADS
+# ==========================================
+
+# Microsoft Advertising
+||ads.microsoft.com^
+/(\.|^)ads\.microsoft\.com$/
+||bat.bing.com^
+/(\.|^)bat\.bing\.com$/
+||mfadsrvr.com^
+/(\.|^)mfadsrvr\.com$/
+||msads.net^
+/(\.|^)msads\.net$/
+
+# ==========================================
+# CATEGORIA: PRINCIPAIS REDES AD NETWORKS
+# ==========================================
+
+# AppNexus
+||appnexus.com^
+/(\.|^)appnexus\.com$/
+||adnxs.com^
+/(\.|^)adnxs\.com$/
+
+# OpenX
+||openx.net^
+/(\.|^)openx\.net$/
+||openx.com^
+/(\.|^)openx\.com$/
+
+# PubMatic
+||pubmatic.com^
+/(\.|^)pubmatic\.com$/
+
+# Rubicon Project (Magnite)
+||rubiconproject.com^
+/(\.|^)rubiconproject\.com$/
+
+# Index Exchange
+||indexexchange.com^
+/(\.|^)indexexchange\.com$/
+||casalemedia.com^
+/(\.|^)casalemedia\.com$/
+
+# Criteo
+||criteo.com^
+/(\.|^)criteo\.com$/
+||criteo.net^
+/(\.|^)criteo\.net$/
+
+# Taboola
+||taboola.com^
+/(\.|^)taboola\.com$/
+
+# Outbrain
+||outbrain.com^
+/(\.|^)outbrain\.com$/
+
+# ==========================================
+# CATEGORIA: TRACKERS E ANALYTICS
+# ==========================================
+
+# Adobe Analytics
+||omniture.com^
+/(\.|^)omniture\.com$/
+||omtrdc.net^
+/(\.|^)omtrdc\.net$/
+||demdex.net^
+/(\.|^)demdex\.net$/
+||everesttech.net^
+/(\.|^)everesttech\.net$/
+
+# Quantcast
+||quantcast.com^
+/(\.|^)quantcast\.com$/
+||quantserve.com^
+/(\.|^)quantserve\.com$/
+
+# ComScore
+||comscore.com^
+/(\.|^)comscore\.com$/
+||scorecardresearch.com^
+/(\.|^)scorecardresearch\.com$/
+
+# Nielsen
+||nielsen.com^
+/(\.|^)nielsen\.com$/
+||imrworldwide.com^
+/(\.|^)imrworldwide\.com$/
+
+# Chartbeat
+||chartbeat.com^
+/(\.|^)chartbeat\.com$/
+
+# New Relic
+||newrelic.com^
+/(\.|^)newrelic\.com$/
+
+# Mixpanel
+||mixpanel.com^
+/(\.|^)mixpanel\.com$/
+
+# ==========================================
+# CATEGORIA: SOCIAL MEDIA ADS/TRACKING
+# ==========================================
+
+# Twitter Ads
+||ads.twitter.com^
+/(\.|^)ads\.twitter\.com$/
+||analytics.twitter.com^
+/(\.|^)analytics\.twitter\.com$/
+||platform.twitter.com^
+/(\.|^)platform\.twitter\.com$/
+||syndication.twitter.com^
+/(\.|^)syndication\.twitter\.com$/
+
+# LinkedIn Ads
+||platform.linkedin.com^
+/(\.|^)platform\.linkedin\.com$/
+||snap.licdn.com^
+/(\.|^)snap\.licdn\.com$/
+
+# Pinterest Ads
+||analytics.pinterest.com^
+/(\.|^)analytics\.pinterest\.com$/
+||log.pinterest.com^
+/(\.|^)log\.pinterest\.com$/
+||ct.pinterest.com^
+/(\.|^)ct\.pinterest\.com$/
+||trk.pinterest.com^
+/(\.|^)trk\.pinterest\.com$/
+
+# Snapchat Ads
+||tr.snapchat.com^
+/(\.|^)tr\.snapchat\.com$/
+||platform.snapchat.com^
+/(\.|^)platform\.snapchat\.com$/
+
+# TikTok Ads
+||analytics.tiktok.com^
+/(\.|^)analytics\.tiktok\.com$/
+||ads.tiktok.com^
+/(\.|^)ads\.tiktok\.com$/
+
+# ==========================================
+# CATEGORIA: MOBILE ADS NETWORKS
+# ==========================================
+
+# AdMob (Google)
+||admob.com^
+/(\.|^)admob\.com$/
+||googleadmob.com^
+/(\.|^)googleadmob\.com$/
+
+# Unity Ads
+||unityads.unity3d.com^
+/(\.|^)unityads\.unity3d\.com$/
+
+# Vungle
+||vungle.com^
+/(\.|^)vungle\.com$/
+
+# IronSource
+||ironsrc.com^
+/(\.|^)ironsrc\.com$/
+
+# Chartboost
+||chartboost.com^
+/(\.|^)chartboost\.com$/
+
+# InMobi
+||inmobi.com^
+/(\.|^)inmobi\.com$/
+
+# StartApp
+||startapp.com^
+/(\.|^)startapp\.com$/
+
+# ==========================================
+# CATEGORIA: VIDEO ADS NETWORKS
+# ==========================================
+
+# SpotX
+||spotx.tv^
+/(\.|^)spotx\.tv$/
+||spotxchange.com^
+/(\.|^)spotxchange\.com$/
+
+# Tremor Video
+||tremorvideo.com^
+/(\.|^)tremorvideo\.com$/
+
+# BrightRoll (Verizon Media)
+||brightroll.com^
+/(\.|^)brightroll\.com$/
+
+# Innovid
+||innovid.com^
+/(\.|^)innovid\.com$/
+
+# ==========================================
+# CATEGORIA: AFFILIATE NETWORKS
+# ==========================================
+
+# Commission Junction
+||cj.com^
+/(\.|^)cj\.com$/
+||commission-junction.com^
+/(\.|^)commission-junction\.com$/
+
+# ShareASale
+||shareasale.com^
+/(\.|^)shareasale\.com$/
+
+# ClickBank
+||clickbank.com^
+/(\.|^)clickbank\.com$/
+
+# MaxBounty
+||maxbounty.com^
+/(\.|^)maxbounty\.com$/
+
+# PeerFly
+||peerfly.com^
+/(\.|^)peerfly\.com$/
+
+# ==========================================
+# CATEGORIA: EMAIL MARKETING/TRACKING
+# ==========================================
+
+# Mailchimp
+||mailchimp.com^
+/(\.|^)mailchimp\.com$/
+||list-manage.com^
+/(\.|^)list-manage\.com$/
+
+# Constant Contact
+||constantcontact.com^
+/(\.|^)constantcontact\.com$/
+
+# SendGrid
+||sendgrid.net^
+/(\.|^)sendgrid\.net$/
+||sendgrid.com^
+/(\.|^)sendgrid\.com$/
+
+# Mandrill
+||mandrillapp.com^
+/(\.|^)mandrillapp\.com$/
+
+# ==========================================
+# CATEGORIA: RETARGETING NETWORKS
+# ==========================================
+
+# Perfect Audience
+||perfectaudience.com^
+/(\.|^)perfectaudience\.com$/
+
+# AdRoll
+||adroll.com^
+/(\.|^)adroll\.com$/
+
+# ReTargeter
+||retargeter.com^
+/(\.|^)retargeter\.com$/
+
+# ==========================================
+# CATEGORIA: POPUP E NOTIFICATION ADS
+# ==========================================
+
+# Push Notification Networks
+||pushwoosh.com^
+/(\.|^)pushwoosh\.com$/
+||pushengage.com^
+/(\.|^)pushengage\.com$/
+||onesignal.com^
+/(\.|^)onesignal\.com$/
+
+# Popup Networks
+||propellerads.com^
+/(\.|^)propellerads\.com$/
+||popads.net^
+/(\.|^)popads\.net$/
+||popcash.net^
+/(\.|^)popcash\.net$/
+||popunder.net^
+/(\.|^)popunder\.net$/
+
+# ==========================================
+# CATEGORIA: NATIVE ADVERTISING
+# ==========================================
+
+# Content.ad
+||content.ad^
+/(\.|^)content\.ad$/
+
+# Revcontent
+||revcontent.com^
+/(\.|^)revcontent\.com$/
+
+# Mgid
+||mgid.com^
+/(\.|^)mgid\.com$/
+
+# ==========================================
+# CATEGORIA: BEHAVIORAL TARGETING
+# ==========================================
+
+# BlueKai (Oracle)
+||bluekai.com^
+/(\.|^)bluekai\.com$/
+
+# Lotame
+||lotame.com^
+/(\.|^)lotame\.com$/
+||crwdcntrl.net^
+/(\.|^)crwdcntrl\.net$/
+
+# Acxiom
+||acxiom.com^
+/(\.|^)acxiom\.com$/
+||liveramp.com^
+/(\.|^)liveramp\.com$/
+
+# ==========================================
+# CATEGORIA: PROGRAMMATIC ADVERTISING
+# ==========================================
+
+# The Trade Desk
+||thetradedesk.com^
+/(\.|^)thetradedesk\.com$/
+||adsystem.com^
+/(\.|^)adsystem\.com$/
+
+# MediaMath
+||mediamath.com^
+/(\.|^)mediamath\.com$/
+||mathtag.com^
+/(\.|^)mathtag\.com$/
+
+# DataXu (Roku)
+||dataxu.com^
+/(\.|^)dataxu\.com$/
+
+# ==========================================
+# CATEGORIA: BRAZILIAN AD NETWORKS
+# ==========================================
+
+# UOL Ads
+||uol.com.br^
+/(\.|^)uol\.com\.br$/
+
+# Globo.com Ads
+||globo.com^
+/(\.|^)globo\.com$/
+
+# R7 Ads
+||r7.com^
+/(\.|^)r7\.com$/
+
+# Terra Ads
+||terra.com.br^
+/(\.|^)terra\.com\.br$/
+
+# IG Ads
+||ig.com.br^
+/(\.|^)ig\.com\.br$/
+
+# BOL Ads
+||bol.uol.com.br^
+/(\.|^)bol\.uol\.com\.br$/
+
+# ==========================================
+# CATEGORIA: LATIN AMERICA AD NETWORKS
+# ==========================================
+
+# MercadoLibre Ads
+||mercadolibre.com^
+/(\.|^)mercadolibre\.com$/
+||mercadoads.com^
+/(\.|^)mercadoads\.com$/
+
+# ==========================================
+# CATEGORIA: CDN E SERVING DE ADS
+# ==========================================
+
+# Generic Ad Serving
+||adsrvr.org^
+/(\.|^)adsrvr\.org$/
+
+# ==========================================
+# CATEGORIA: ANALYTICS E HEATMAPS
+# ==========================================
+
+# Hotjar
+||hotjar.com^
+/(\.|^)hotjar\.com$/
+
+# Crazy Egg
+||crazyegg.com^
+/(\.|^)crazyegg\.com$/
+
+# FullStory
+||fullstory.com^
+/(\.|^)fullstory\.com$/
+
+# LogRocket
+||logrocket.com^
+/(\.|^)logrocket\.com$/
+
+# ==========================================
+# CATEGORIA: A/B TESTING PLATFORMS
+# ==========================================
+
+# Optimizely
+||optimizely.com^
+/(\.|^)optimizely\.com$/
+
+# VWO
+||vwo.com^
+/(\.|^)vwo\.com$/
+
+# ==========================================
+# CATEGORIA: CUSTOMER DATA PLATFORMS
+# ==========================================
+
+# Segment
+||segment.com^
+/(\.|^)segment\.com$/
+||segment.io^
+/(\.|^)segment\.io$/
+
+# Salesforce DMP
+||krux.com^
+/(\.|^)krux\.com$/
+||krxd.net^
+/(\.|^)krxd\.net$/
+
+# ==========================================
+# CATEGORIA: MALVERTISING E SUSPICIOUS
+# ==========================================
+
+# Known Malvertising Networks
+||malvertising.com^
+/(\.|^)malvertising\.com$/
+||suspiciousads.net^
+/(\.|^)suspiciousads\.net$/
+
+# Fake Ad Networks
+||fakeads.com^
+/(\.|^)fakeads\.com$/
+||scamads.net^
+/(\.|^)scamads\.net$/
+
+# ==========================================
+# CATEGORIA: OUTROS DOMÍNIOS RELACIONADOS
+# ==========================================
+
+# Miscellaneous Ad Networks
+||bidswitch.net^
+/(\.|^)bidswitch\.net$/
+||smartadserver.com^
+/(\.|^)smartadserver\.com$/
+||smaato.net^
+/(\.|^)smaato\.net$/
+||mobfox.com^
+/(\.|^)mobfox\.com$/
+||adskeeper.co.uk^
+/(\.|^)adskeeper\.co\.uk$/
+||richads.com^
+/(\.|^)richads\.com$/
+
+# Legacy Networks
+||advertising.com^
+/(\.|^)advertising\.com$/
+||adserver.com^
+/(\.|^)adserver\.com$/
+
+# International Networks
+||yandex.ru^
+/(\.|^)yandex\.ru$/
+||baidu.com^
+/(\.|^)baidu\.com$/
