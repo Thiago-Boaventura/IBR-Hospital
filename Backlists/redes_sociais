@@ -2,328 +2,254 @@
 # Criada em 2025 - Versão Completa
 # Para usar: adicione esta lista como uma blocklist personalizada no Pi-hole
 
-# ===== FACEBOOK / META =====
+# === YOUTUBE ===
+youtube.com
+www.youtube.com
+m.youtube.com
+youtubei.googleapis.com
+youtube.googleapis.com
+youtubei-googleapis-com.googlevideo.com
+s.youtube.com
+video-stats.l.google.com
+www.googleapis.com
+googlevideo.com
+ytimg.com
+yt3.ggpht.com
+yt4.ggpht.com
+youtube-nocookie.com
+youtu.be
+
+# === TIKTOK ===
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+api.tiktok.com
+p16-sign-sg.tiktokcdn.com
+p16-tiktokcdn-com.akamaized.net
+sf16-sg.tiktokcdn.com
+sf16-website-login.neutral.ttwstatic.com
+lf16-pkgcdn.pitaya.com
+muscdn.com
+musical.ly
+www.musical.ly
+api2-19-h2.musical.ly
+api2-21-h2.musical.ly
+byteoversea.com
+ibytedtos.com
+ibyteimg.com
+ipstatp.com
+musemuse.cn
+sgpstatp.com
+snssdk.com
+tiktokcdn.com
+tiktokv.com
+ttlivecdn.com
+ttoversea.net
+weixinbridge.com
+zijieapi.com
+
+# === FACEBOOK ===
 facebook.com
 www.facebook.com
 m.facebook.com
-mobile.facebook.com
 touch.facebook.com
+web.facebook.com
+business.facebook.com
 fb.com
-fb.me
+www.fb.com
 fbcdn.net
-fbcdn.com
-facebook.net
 fbsbx.com
 messenger.com
+www.messenger.com
+m.messenger.com
+facebook.net
+fburl.com
+connect.facebook.net
+graph.facebook.com
+edge-chat.facebook.com
+video.xx.fbcdn.net
+scontent.xx.fbcdn.net
+static.xx.fbcdn.net
+edge-mqtt.facebook.com
+mqtt.c10r.facebook.com
+gateway.facebook.com
+rupload.facebook.com
+upload.facebook.com
+
+# === INSTAGRAM ===
 instagram.com
 www.instagram.com
+m.instagram.com
+help.instagram.com
+about.instagram.com
+blog.instagram.com
 cdninstagram.com
-threads.net
-workplace.com
-m.facebook.com 
-fb.com
-web.facebook.com
-free.facebook.com
-zero.facebook.com
+instagramstatic-a.akamaihd.net
+instagramstatic-a.akamaihd.net.edgesuite.net
+igcdn.com
+instagram.c10r.facebook.com
+i.instagram.com
+graph.instagram.com
+white.ish.instagram.com
+edge-chat.instagram.com
+gateway.instagram.com
 
+# === TINDER ===
+tinder.com
+www.tinder.com
+api.gotinder.com
+gotinder.com
+www.gotinder.com
+tindersparks.com
+tindercdn.com
+api.tinder.com
 
-# ===== TWITTER / X =====
+# === TWITTER/X ===
 twitter.com
 www.twitter.com
 m.twitter.com
 mobile.twitter.com
-x.com
-www.x.com
+api.twitter.com
+pbs.twimg.com
+abs.twimg.com
+video.twimg.com
+ton.twimg.com
 t.co
 twimg.com
-twitpic.com
-periscope.tv
+x.com
+www.x.com
+api.x.com
 
-# ===== TIKTOK =====
-tiktok.com
-www.tiktok.com
-m.tiktok.com
-tiktokcdn.com
-tiktokv.com
-musically.com
-musical.ly
-byteoversea.com
-sgsnssdk.com
-amemv.com
-
-# ===== YOUTUBE =====
-youtube.com
-www.youtube.com
-m.youtube.com
-youtu.be
-youtubei.googleapis.com
-youtube-nocookie.com
-googlevideo.com
-googleapis.com
-yt3.ggpht.com
-ytimg.com
-
-# ===== LINKEDIN =====
-linkedin.com
-www.linkedin.com
-licdn.com
-lnkd.in
-
-# ===== SNAPCHAT =====
+# === SNAPCHAT ===
 snapchat.com
 www.snapchat.com
-snap.com
-snapads.com
-sc-cdn.net
+app.snapchat.com
+feelinsonice.appspot.com
+feelinsonice-hrd.appspot.com
+sc-prod.net
+snapkit.com
 snap-dev.net
+snapads.com
+impala-media-production.s3.amazonaws.com
 
-# ===== PINTEREST =====
-pinterest.com
-www.pinterest.com
-pinterest.co.uk
-pinterest.ca
-pinterest.de
-pinterest.fr
-pinimg.com
-pinterest.it
-pinterest.jp
-pinterest.se
-pinterest.dk
-pinterest.ie
-pinterest.co.kr
-pinterest.com.mx
-pinterest.nz
-pinterest.ph
-pinterest.pt
-pinterest.com.au
-pinterest.at
-pinterest.be
-pinterest.ch
-pinterest.cl
-pinterest.com.uy
-pinterest.es
-pinterest.hu
-pinterest.co.id
-pinterest.ru
-
-# ===== REDDIT =====
-reddit.com
-www.reddit.com
-m.reddit.com
-redd.it
-redditmedia.com
-redditstatic.com
-reddituploads.com
-
-# ===== DISCORD =====
+# === DISCORD ===
 discord.com
+www.discord.com
 discordapp.com
 discord.gg
 cdn.discordapp.com
 media.discordapp.net
+images-ext-1.discordapp.net
+images-ext-2.discordapp.net
 gateway.discord.gg
+status.discord.com
+support.discord.com
 
-# ===== TWITCH =====
+# === WHATSAPP ===
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+media.whatsapp.com
+mmg.whatsapp.net
+mmg-fna.whatsapp.net
+chat.whatsapp.com
+faq.whatsapp.com
+static.whatsapp.net
+wa.me
+
+# === LINKEDIN ===
+linkedin.com
+www.linkedin.com
+m.linkedin.com
+touch.linkedin.com
+media.licdn.com
+static.licdn.com
+platform.linkedin.com
+
+# === PINTEREST ===
+pinterest.com
+www.pinterest.com
+br.pinterest.com
+pin.it
+i.pinimg.com
+s-media-cache-ak0.pinimg.com
+media-cache-ak0.pinimg.com
+
+# === BUMBLE ===
+bumble.com
+www.bumble.com
+api.bumble.com
+
+# === REDDIT ===
+reddit.com
+www.reddit.com
+m.reddit.com
+old.reddit.com
+i.redd.it
+v.redd.it
+preview.redd.it
+external-preview.redd.it
+thumbs.redditmedia.com
+styles.redditmedia.com
+redditstatic.com
+reddituploads.com
+
+# === TWITCH ===
 twitch.tv
 www.twitch.tv
 m.twitch.tv
+player.twitch.tv
+static-cdn.jtvnw.net
+clips-media-assets2.twitch.tv
+vod-secure.twitch.tv
+vod-metro.twitch.tv
 twitchcdn.net
 jtvnw.net
-ttvnw.net
+ext-twitch.tv
+api.twitch.tv
 
-# ===== TELEGRAM =====
-telegram.org
-telegram.me
-t.me
-telesco.pe
-telegramdownload.com
+# === OUTROS APPS POPULARES ===
+# OnlyFans
+onlyfans.com
+www.onlyfans.com
 
-# ===== CLUBHOUSE =====
+# BeReal
+bereal.com
+www.bereal.com
+
+# Clubhouse
 clubhouse.com
 www.clubhouse.com
 
-# ===== MASTODON (principais instâncias) =====
-mastodon.social
-mastodon.online
-mstdn.social
-fosstodon.org
-mas.to
+# Telegram Web
+web.telegram.org
+webz.telegram.org
+webk.telegram.org
 
-# ===== OUTRAS REDES SOCIAIS =====
-# Tumblr
-tumblr.com
-www.tumblr.com
-tmblr.co
-media.tumblr.com
+# Spotify Web Player
+open.spotify.com
 
-# Flickr
-flickr.com
-www.flickr.com
-staticflickr.com
+# Netflix (caso queira bloquear)
+# netflix.com
+# www.netflix.com
 
-# Vimeo
-vimeo.com
-www.vimeo.com
-vimeocdn.com
+# === DOMÍNIOS DE PUBLICIDADE RELACIONADOS ===
+# Facebook Ads
+facebook.com/tr
+connect.facebook.net/en_US/fbevents.js
+analytics.facebook.com
+pixel.facebook.com
 
-# Dailymotion
-dailymotion.com
-www.dailymotion.com
-dmcdn.net
+# Google Ads relacionados ao YouTube
+googleadservices.com
+googlesyndication.com
+doubleclick.net
+adsystem.google.com
 
-# WeChat
-wechat.com
-weixin.qq.com
-
-# Line
-line.me
-line.naver.jp
-
-# Viber
-viber.com
-www.viber.com
-
-# KakaoTalk
-kakaocorp.com
-kakao.com
-
-# QQ
-qq.com
-qzone.qq.com
-
-# Weibo
-weibo.com
-sina.com.cn
-
-# VKontakte (VK)
-vk.com
-vkontakte.ru
-userapi.com
-
-# Badoo
-badoo.com
-www.badoo.com
-
-# Tagged
-tagged.com
-www.tagged.com
-
-# Meetup
-meetup.com
-www.meetup.com
-
-# Foursquare
-foursquare.com
-swarmapp.com
-
-# Yelp (aspecto social)
-yelp.com
-www.yelp.com
-
-# ===== REDES SOCIAIS BRASILEIRAS =====
-# Orkut (descontinuado, mas alguns mirrors existem)
-orkut.com
-orkut.com.br
-
-# ===== REDES SOCIAIS PROFISSIONAIS =====
-# Além do LinkedIn
-xing.com
-www.xing.com
-
-# Behance
-behance.net
-www.behance.net
-
-# Dribbble
-dribbble.com
-www.dribbble.com
-
-# ===== PLATAFORMAS DE STREAMING SOCIAL =====
-# Além do Twitch
-mixer.com
-dlive.tv
-trovo.live
-
-# ===== REDES SOCIAIS DE NICHO =====
-# Goodreads
-goodreads.com
-www.goodreads.com
-
-# MySpace
-myspace.com
-www.myspace.com
-
-# Nextdoor
-nextdoor.com
-www.nextdoor.com
-
-# MeWe
-mewe.com
-www.mewe.com
-
-# Gab
-gab.com
-www.gab.com
-
-# Parler
-parler.com
-www.parler.com
-
-# Truth Social
-truthsocial.com
-
-# Gettr
-gettr.com
-
-# ===== REDES SOCIAIS DE RELACIONAMENTO =====
-# Tinder
-tinder.com
-www.tinder.com
-
-# Bumble
-bumble.com
-www.bumble.com
-
-# Hinge
-hinge.co
-www.hinge.co
-
-# Match
-match.com
-www.match.com
-
-# eHarmony
-eharmony.com
-www.eharmony.com
-
-# Plenty of Fish
-pof.com
-www.pof.com
-
-# OkCupid
-okcupid.com
-www.okcupid.com
-
-# ===== REDES SOCIAIS DE GAMES =====
-# Steam (aspecto social)
-steamcommunity.com
-
-# ===== OUTRAS PLATAFORMAS =====
-# Medium (aspecto social)
-medium.com
-www.medium.com
-
-# Quora
-quora.com
-www.quora.com
-
-# 500px
-500px.com
-www.500px.com
-
-# DeviantArt
-deviantart.com
-www.deviantart.com
+# TikTok Ads
+ads.tiktok.com
+business-api.tiktok.com
+analytics.tiktok.com
 
 # ===== CDNs E DOMÍNIOS DE APOIO =====
 # Facebook/Meta CDNs
