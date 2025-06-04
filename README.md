@@ -46,6 +46,21 @@ Este projeto visa facilitar o bloqueio de anúncios, rastreadores, sites malicio
 pihole -g
 ```
 
+## 🚀 Como usar com o AdGuard Home
+
+1. Acesse a interface de administração do seu AdGuard Home.
+2. Vá até **Filtros > Listas de Bloqueio DNS**.
+3. Clique em **Adicionar lista de bloqueio**.
+4. Clique em **Adicionar uma lista personalizada**.
+5. Cole o link da lista desejada.
+6. Clique em **Add**.
+7. Atualize as listas com o comando:
+
+```bash
+
+```
+
+
 ---
 
 ## 💡 Dicas de uso
