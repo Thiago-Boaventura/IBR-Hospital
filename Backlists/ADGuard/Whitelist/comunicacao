@@ -1,0 +1,107 @@
+# Blacklist Restritiva para AdGuard Home
+# Versão 2025 - Inclui Serviços de Comunicação + Redes de Publicidade
+# Formato: ||dominio.com^ e regex /(\.|^)dominio\.com$/
+
+
+# ==========================================
+# CATEGORIA: SERVIÇOS DE EMAIL
+# ==========================================
+
+# Gmail (Google)
+||gmail.com^
+/(\.|^)gmail\.com$/
+||mail.google.com^
+/(\.|^)mail\.google\.com$/
+||googlemail.com^
+/(\.|^)googlemail\.com$/
+
+# Hotmail/Outlook (Microsoft)
+||hotmail.com^
+/(\.|^)hotmail\.com$/
+||outlook.com^
+/(\.|^)outlook\.com$/
+||outlook.live.com^
+/(\.|^)outlook\.live\.com$/
+||live.com^
+/(\.|^)live\.com$/
+||msn.com^
+/(\.|^)msn\.com$/
+
+# Yahoo Mail
+||yahoo.com^
+/(\.|^)yahoo\.com$/
+||yahoo.com.br^
+/(\.|^)yahoo\.com\.br$/
+||mail.yahoo.com^
+/(\.|^)mail\.yahoo\.com$/
+
+# ==========================================
+# CATEGORIA: SERVIÇOS DE MENSAGERIA
+# ==========================================
+
+# WHATSAPP 
+/(\.|^)whatsapp\.com$/
+||www.whatsapp.com^
+/(\.|^)www\.whatsapp\.com$/
+||web.whatsapp.com^
+/(\.|^)web\.whatsapp\.com$/
+||media.whatsapp.com^
+/(\.|^)media\.whatsapp\.com$/
+||mmg.whatsapp.net^
+/(\.|^)mmg\.whatsapp\.net$/
+||mmg-fna.whatsapp.net^
+/(\.|^)mmg-fna\.whatsapp\.net$/
+||chat.whatsapp.com^
+/(\.|^)chat\.whatsapp\.com$/
+||faq.whatsapp.com^
+/(\.|^)faq\.whatsapp\.com$/
+||static.whatsapp.net^
+/(\.|^)static\.whatsapp\.net$/
+||wa.me^
+/(\.|^)wa\.me$/
+
+# Signal
+||signal.org^
+/(\.|^)signal\.org$/
+
+# ==========================================
+# CATEGORIA: VIDEOCONFERÊNCIA
+# ==========================================
+
+# Zoom
+||zoom.us^
+/(\.|^)zoom\.us$/
+||zoom.com^
+/(\.|^)zoom\.com$/
+||zoomgov.com^
+/(\.|^)zoomgov\.com$/
+
+# Microsoft Teams
+||teams.microsoft.com^
+/(\.|^)teams\.microsoft\.com$/
+||teams.live.com^
+/(\.|^)teams\.live\.com$/
+
+# Google Meet
+||meet.google.com^
+/(\.|^)meet\.google\.com$/
+||hangouts.google.com^
+/(\.|^)hangouts\.google\.com$/
+
+# Skype
+||skype.com^
+/(\.|^)skype\.com$/
+||web.skype.com^
+/(\.|^)web\.skype\.com$/
+
+# WebEx (Cisco)
+||webex.com^
+/(\.|^)webex\.com$/
+||meetingsamer.webex.com^
+/(\.|^)meetingsamer\.webex\.com$/
+
+# GoToMeeting
+||gotomeeting.com^
+/(\.|^)gotomeeting\.com$/
+||gotomeet.me^
+/(\.|^)gotomeet\.me$/

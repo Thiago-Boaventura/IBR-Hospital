@@ -43,22 +43,6 @@
 /(\.|^)partner\.googleadservices\.com$/
 
 # ==========================================
-# CATEGORIA: FACEBOOK/META ADS
-# ==========================================
-
-# Facebook Ads
-||connect.facebook.net^
-/(\.|^)connect\.facebook\.net$/
-
-# Instagram Ads
-||platform.instagram.com^
-/(\.|^)platform\.instagram\.com$/
-
-# Audience Network
-||audiencenetwork.com^
-/(\.|^)audiencenetwork\.com$/
-
-# ==========================================
 # CATEGORIA: AMAZON ADS
 # ==========================================
 
@@ -85,6 +69,36 @@
 /(\.|^)mfadsrvr\.com$/
 ||msads.net^
 /(\.|^)msads\.net$/
+
+
+# ==========================================
+# CATEGORIA: PRINCIPAIS REDES AD NETWORKS
+# ==========================================
+
+# AppNexus
+||appnexus.com^
+/(\.|^)appnexus\.com$/
+||adnxs.com^
+/(\.|^)adnxs\.com$/
+
+# OpenX
+||op
+
+# ==========================================
+# CATEGORIA: FACEBOOK/META ADS
+# ==========================================
+
+# Facebook Ads
+||connect.facebook.net^
+/(\.|^)connect\.facebook\.net$/
+
+# Instagram Ads
+||platform.instagram.com^
+/(\.|^)platform\.instagram\.com$/
+
+# Audience Network
+||audiencenetwork.com^
+/(\.|^)audiencenetwork\.com$/
 
 # ==========================================
 # CATEGORIA: PRINCIPAIS REDES AD NETWORKS

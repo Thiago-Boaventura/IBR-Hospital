@@ -272,28 +272,6 @@
 ||support.discord.com^
 /(\.|^)support\.discord\.com$/
 
-# === WHATSAPP ===
-||whatsapp.com^
-/(\.|^)whatsapp\.com$/
-||www.whatsapp.com^
-/(\.|^)www\.whatsapp\.com$/
-||web.whatsapp.com^
-/(\.|^)web\.whatsapp\.com$/
-||media.whatsapp.com^
-/(\.|^)media\.whatsapp\.com$/
-||mmg.whatsapp.net^
-/(\.|^)mmg\.whatsapp\.net$/
-||mmg-fna.whatsapp.net^
-/(\.|^)mmg-fna\.whatsapp\.net$/
-||chat.whatsapp.com^
-/(\.|^)chat\.whatsapp\.com$/
-||faq.whatsapp.com^
-/(\.|^)faq\.whatsapp\.com$/
-||static.whatsapp.net^
-/(\.|^)static\.whatsapp\.net$/
-||wa.me^
-/(\.|^)wa\.me$/
-
 # === LINKEDIN ===
 ||linkedin.com^
 /(\.|^)linkedin\.com$/
