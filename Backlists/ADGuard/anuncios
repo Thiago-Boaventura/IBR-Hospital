@@ -15,8 +15,8 @@
 /(\.|^)googleadservices\.com$/
 ||googletagservices.com^
 /(\.|^)googletagservices\.com$/
-||googletagmanager.com^
-/(\.|^)googletagmanager\.com$/
+#||googletagmanager.com^
+#/(\.|^)googletagmanager\.com$/
 
 # DoubleClick (Google)
 ||doubleclick.net^
