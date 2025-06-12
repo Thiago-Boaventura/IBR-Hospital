@@ -59,6 +59,8 @@
 /(\.|^)static\.whatsapp\.net$/
 ||wa.me^
 /(\.|^)wa\.me$/
+||dit.whatsapp.net^
+/(\.|^)dit\.whatsapp\.net$/
 
 # Signal
 ||signal.org^
