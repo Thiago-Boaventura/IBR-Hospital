@@ -12,6 +12,8 @@
 /(\.|^)gmail\.com$/
 ||mail.google.com^
 /(\.|^)mail\.google\.com$/
+||accout.google.com^
+/(\.|^)accout\.google\.com$/
 ||googlemail.com^
 /(\.|^)googlemail\.com$/
 
