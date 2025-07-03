@@ -19,8 +19,6 @@
 /(\.|^)s\.youtube\.com$/
 ||video-stats.l.google.com^
 /(\.|^)video-stats\.l\.google\.com$/
-||www.googleapis.com^
-/(\.|^)www\.googleapis\.com$/
 ||googlevideo.com^
 /(\.|^)googlevideo\.com$/
 ||ytimg.com^
